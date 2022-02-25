@@ -1,0 +1,2015 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Grammatica reformata, or, A general examination of the art of grammar as it hath been successively delivered by [brace] Franciscus Sanctius in Spain, Gaspar Scioppius in France, Gerardus Joannes Vossius in the Lower Germany, and methodiz'd by the Oxford grammarian in his observations upon Lilie : designed for initiating the lower forms in the free-school at Newark upon Trent / by John Twells ...</title>
+            <author>Twells, John, b. 1651 or 2.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 115 KB of XML-encoded text transcribed from 47 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63982</idno>
+            <idno type="STC">Wing T3394A</idno>
+            <idno type="STC">ESTC R39735</idno>
+            <idno type="EEBO-CITATION">18477970</idno>
+            <idno type="OCLC">ocm 18477970</idno>
+            <idno type="VID">107822</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63982)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107822)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1644:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Grammatica reformata, or, A general examination of the art of grammar as it hath been successively delivered by [brace] Franciscus Sanctius in Spain, Gaspar Scioppius in France, Gerardus Joannes Vossius in the Lower Germany, and methodiz'd by the Oxford grammarian in his observations upon Lilie : designed for initiating the lower forms in the free-school at Newark upon Trent / by John Twells ...</title>
+                  <author>Twells, John, b. 1651 or 2.</author>
+               </titleStmt>
+               <extent>[4], 26, 63 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by S. Roycroft for Robert Clavell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Error in paging: p. 31 of second part misnumbered 13.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grammar, Comparative and general --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107822:1"/>
+            <pb facs="tcp:107822:1" rendition="simple:additions"/>
+            <p>
+               <hi>GRAMMATICA REFORMATA,</hi> OR A General Examination OF THE ART of GRAMMAR, As it hath been ſucceſſively delivered</p>
+            <p>By
+<list>
+                  <item>
+                     <hi>Franciſcus Sanctius</hi> in <hi>Spain,</hi>
+                  </item>
+                  <item>
+                     <hi>Gaſpar Scioppius</hi> in <hi>France,</hi>
+                  </item>
+                  <item>
+                     <hi>Gerardus Joannes Voſſius</hi> in the Lower <hi>Germany;</hi>
+                  </item>
+               </list>
+            </p>
+            <p>AND Methodiz'd by the <hi>Oxford</hi> Grammarian in his Obſervations upon <hi>Lilie.</hi>
+            </p>
+            <p>Deſigned for initiating the Lower Forms in the Free-School at <hi>Newark</hi> upon <hi>Trent.</hi>
+            </p>
+            <p>
+               <hi>By</hi> JOHN TWELLS, <hi>Schoolmaſter.</hi>
+            </p>
+            <q>
+               <lg>
+                  <l>Multa dies variuſque labor mutabilis aevi</l>
+                  <l>Rettulit in melius.—</l>
+               </lg>
+               <bibl>
+                  <hi>Virg. Aeneid. I.XI.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>S. Roycroft,</hi> for <hi>Robert Clavell</hi> at the <hi>Peacock</hi> in St. <hi>Pauls Church-yard,</hi> 1683.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:107822:2" rendition="simple:additions"/>
+            <pb facs="tcp:107822:2"/>
+            <p>REVERENDO, PIETATIS ERGA DEUM ET FIDELITATIS ERGA REGEM VIRO, D<hi rend="sup">NO</hi> 
+               <hi>HENRICO SMITHO,</hi> ECCLESIAE NOVARCENSIS VICARIO DIGNISSIMO, &amp;c.</p>
+            <p>GRAMMATICAM HANC REFORMATAM, Tenuem quidem obſcurumque Laborem, Perpetuae tamen Obſervantiae Monumentum, DICAT, CONSECRAT <hi>JOANNES TWELLS,</hi> SCHOLAE PUBLICAE, QUAE <hi>NOVARCAE</hi> EST MODERATOR.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:107822:3"/>
+            <pb n="1" facs="tcp:107822:3"/>
+            <head>A PREFACE CONCERNING The Old and New Gram<g ref="char:EOLhyphen"/>marians.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Bout the Year of the World Three thou<g ref="char:EOLhyphen"/>ſand Seven hun<g ref="char:EOLhyphen"/>dred and Eighty, Five hundred eigh<g ref="char:EOLhyphen"/>ty three years after the building of <hi>Rome,</hi> before the Birth of CHRIST One hundred Sixty eight; betwixt the ſecond and third <hi>Pu<g ref="char:EOLhyphen"/>nick</hi>
+               <pb n="2" facs="tcp:107822:4"/>War, and near the time of <hi>Ennius</hi>'s death, <hi>Crates Mallotes,</hi> Contemporary with <hi>Ariſtarchus,</hi> was ſent Embaſſadour to the <hi>Roman</hi> Senate by <hi>Attalus</hi> the Se<g ref="char:EOLhyphen"/>cond, King of <hi>Pergamus,</hi> for his great Wealth mentioned by
+<note n="(a)" place="margin">Hor. Od. 1.</note> 
+               <hi>Horace</hi> and
+<note n="(b)" place="margin">Prop. l. 2. El. 32. l. 3. E. 18. l. 4. E. 5.</note> 
+               <hi>Propertius,</hi> This Lieger having one day had the misfortune, by a fall he got through the hole of a little Houſe, erected for Natures eaſe within the Liberties of the <hi>Palatium,</hi> to break his Leg, ſpent the remainder of the time alotted him for diſcharging his Negotiation and reco<g ref="char:EOLhyphen"/>vering his Health, in the ſtudy of Gram<g ref="char:EOLhyphen"/>mar. <hi>Plurimas</hi> (ſaith
+<note n="(c)" place="margin">Lib. de illuſtribus Grammati<g ref="char:EOLhyphen"/>cis, cap. 2.</note> 
+               <hi>Suetonius) acroaſes ſubinde fecit, aſſidueque diſ<g ref="char:EOLhyphen"/>ſeruit, ac noſtris exemplo fuit ad imi<g ref="char:EOLhyphen"/>tandum.</hi> He read Grammar Lectures frequently, held Diſputations daily, and ſet himſelf as a Copy for us to imitate. Whereupon a very Learned man takes an occaſion to call that Art, (ſuch as at that time, and for many ſucceeding Ages, ob<g ref="char:EOLhyphen"/>tained both at <hi>Rome</hi> and in other places) <hi>Cloacina,</hi> becauſe (ſaith he) <hi>ex cloacae ſoramine unà cum claudo Magiſtro e<g ref="char:EOLhyphen"/>merſerit;</hi> and therefore tells us, 'tis no wonder to ſee it in ſome places almost over head and ears in filth and naſtineſs, in
+<pb n="3" facs="tcp:107822:4"/>others very lame and imperfect: But I know not, whether for his own diverſion, or in abuſe to <hi>Crates;</hi> for we are little beholden to the Jakes for the Grammar, that had like to have choak'd the Gram<g ref="char:EOLhyphen"/>marian. We are rather obliged to <hi>Greece,</hi> where Two hundred and twenty Years before, <hi>Plato</hi> had ſtudied it, and an hundred Years before, <hi>Epicurus</hi> firſt taught it the <hi>Greeks;</hi> or to <hi>Aſia,</hi> from whence <hi>Crates</hi> firſt brought it into <hi>Italy.</hi> As for what was afterward dully and fooliſhly delivered by the <hi>Latins,</hi> it ought not to be imputed to one that was a <hi>Greek;</hi> except perhaps ſome few things belonging to Grammar, ſo far forth as it was common both to the <hi>Greek</hi> and <hi>Roman</hi> Tongues: But indeed it is to be aſcribed to their Sottiſhneſs, who
+<note n="(d)" place="margin">That <hi>Tully</hi> him<g ref="char:EOLhyphen"/>ſelf did not, ſee prov'd by <hi>Scioppius,</hi> in his <hi>Pa<g ref="char:EOLhyphen"/>radoxa Literaria,</hi> in his <hi>Au<g ref="char:EOLhyphen"/>ctarium,</hi> Arg. 10. in his 53. Animadverſion upon <hi>Voſſius.</hi>
+               </note> ei<g ref="char:EOLhyphen"/>ther did not well underſtand their own Language, or elſe wholly neglected the uſe of Grammatical Diſputations. Hence pro<g ref="char:EOLhyphen"/>ceed ſo many fooliſh Definitions, Diviſi<g ref="char:EOLhyphen"/>ons, and ſo great Confuſion in the Me<g ref="char:EOLhyphen"/>thod.</p>
+            <pb n="4" facs="tcp:107822:5"/>
+            <p>Nor was the Stupidity of the firſt Diſcoverers ſo great as that of their Succeſſors; which would have appear'd but too plainly, had not the injury of Time bereaved us of all the moſt antique and most excellent of thoſe Monuments, which were recorded by Technical or Me<g ref="char:EOLhyphen"/>thodical Grammarians. For we have now not only loſt the two Books of <hi>En<g ref="char:EOLhyphen"/>nius</hi> the Younger, which he wrote about <hi>Letters, Syllables,</hi> and <hi>Verſe,</hi> cited by
+<note n="(e)" place="margin">Lib. de Grammat. 3.</note> 
+               <hi>Suetonius</hi> out of <hi>Lucius Cotta,</hi> and <hi>Julius Caeſar</hi> concerning <hi>Analogy</hi> (whereof mention is made in his Life by <hi>Suetonius</hi> in theſe words, <hi>Reliquit &amp; de Analogia libros duos,</hi> and by <hi>Cha<g ref="char:EOLhyphen"/>riſius,</hi> lib. <hi>1.</hi>) which he dedicated to <hi>Cicero;</hi> but alſo the methodical Works of <hi>Nigidius Figulus,</hi> the moſt Learned of the <hi>Romans,</hi> after <hi>M. T. Varro. Cornelius Nepos, Aruntius Commi<g ref="char:EOLhyphen"/>nianus,</hi> who wrote about
+<note n="(f)" place="margin">See <hi>Putſchius</hi>'s Epiſt. De<g ref="char:EOLhyphen"/>dicat. be<g ref="char:EOLhyphen"/>fore <hi>Palae<g ref="char:EOLhyphen"/>mon</hi>'s <hi>Ars Gramma<g ref="char:EOLhyphen"/>tica.</hi>
+               </note> 
+               <hi>Letters,</hi> as alſo of the <hi>Noun</hi> and <hi>Verb. Plinius Secundus</hi>
+               <note n="(g)" place="margin">Ibid.</note>, famous for his Treatiſe of ambiguous Speeches. <hi>Valgius</hi> and many more, quoted by <hi>Soſipater, Chariſius,</hi> and others.</p>
+            <pb n="5" facs="tcp:107822:5"/>
+            <p>Among thoſe Grammarians, of whom there are ſome Analects yet extant, <hi>Mar<g ref="char:EOLhyphen"/>cus Terentius Varro</hi> is Chief, of whoſe Studies in this kind of Learning, his three Books <hi>de Analogiâ</hi> handed down to this preſent Age, are a ſufficient Te<g ref="char:EOLhyphen"/>ſtimony; He was born at <hi>Narbon</hi> in <hi>France,</hi> and lived before <hi>Chriſt 71</hi> Years.</p>
+            <p>With theſe ought to be reckoned for ſome ſurviving Relicks of greater Works, <hi>Q. Remnius</hi> or rather <hi>Remmius</hi> (for ſo is <hi>Palaemon</hi> call'd in an Old Monument, if <hi>Aldus</hi> ſay true) <hi>Grammatica arte celebris,</hi> ſaith <hi>Pliny</hi>
+               <note n="(h)" place="margin">Li 6.14. cap. 4.</note>, commended upon the ſcore of his Learning by <hi>Juvenal,</hi> Satyr. <hi>7.</hi>
+            </p>
+            <q>
+               <lg>
+                  <l>
+                     <hi>Quis gremio</hi> Enceladi, <hi>doctique</hi> Pa<g ref="char:EOLhyphen"/>laemonis <hi>adfert,</hi>
+                  </l>
+                  <l>
+                     <hi>Quantum Grammaticus meruit la<g ref="char:EOLhyphen"/>bor?—</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Who to <hi>Enceladus,</hi> or to the Learn'd</l>
+                  <l>
+                     <hi>Palaemon</hi> tenders juſtly, what is earn'd</l>
+                  <l>By a Grammarian's Pains?</l>
+                  <pb n="6" facs="tcp:107822:6"/>
+                  <l>He alſo calls Grammar periphraſtically</l>
+                  <l>
+                     <hi>Palaemonis</hi> Artem, <hi>Sat. 6.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>— Odi</hi>
+                  </l>
+                  <l>
+                     <hi>Hanc ego, quae repetit, volvitque</hi> Palaemonis <hi>Artem,</hi>
+                  </l>
+                  <l>
+                     <hi>Servatâ ſemper lege &amp; ratione lo<g ref="char:EOLhyphen"/>quendi.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>I hate her, that <hi>Palaemons</hi> Art re<g ref="char:EOLhyphen"/>vives,</l>
+                  <l>That to diſcourſe by Rule and Method ſtrives.</l>
+               </lg>
+            </q>
+            <p>He was Tutor to <hi>M. Fab. Quintilian,</hi> and <hi>Aulus Perſius;</hi> He was born at <hi>Vin<g ref="char:EOLhyphen"/>centia</hi> or <hi>Vicentia,</hi> now call'd <hi>Vicenza,</hi> a City of <hi>Lumbardy,</hi> between <hi>Verona</hi> and <hi>Padua,</hi> and lived (ſaith <hi>Euſebius)</hi> under <hi>Claudius Caeſar,</hi> An. Dom. <hi>49.</hi>
+            </p>
+            <p>From the voracious jaws of Time are reſcu'd alſo the valuable Remains of <hi>M. Valerius Probus,</hi> the laſt in <hi>Tran<g ref="char:EOLhyphen"/>quillus</hi>'s Catalogue of Illuſtrious Gram<g ref="char:EOLhyphen"/>marians, whom <hi>Euſebius</hi> stiles <hi>Gram<g ref="char:EOLhyphen"/>maticorum eruditiſſimus,</hi> and ſays, he was born at <hi>Berytus,</hi> and that he liv'd in the time of <hi>Nero.</hi> But the <hi>Caſtor</hi> and <hi>Pollux</hi> of Technological Studies are
+<pb n="7" facs="tcp:107822:6"/>(if <hi>Voffius</hi> doth not miſguide us) <hi>Flavius Soſipater Chariſius</hi> and <hi>Diomedes,</hi> of whoſe Ages no certain account can be given; the former writes himſelf <hi>Ur.
+<note n="(i)" place="margin">Urba<g ref="char:EOLhyphen"/>nus.</note> Magiſter,</hi> and makes a preſent of his Grammatical Inſtitutions to his Son. The later dedicates his Book to <hi>Atha<g ref="char:EOLhyphen"/>naſius.</hi> A third place, to compleat the <hi>Triumvirate,</hi> is juſtly challenged by <hi>Priſcian</hi> the <hi>Caeſarean,</hi> who flouriſht under the Reigns of <hi>Juſtinus</hi> Senior and <hi>Juſtinianus,</hi> if you dare believe <hi>Caſſio<g ref="char:EOLhyphen"/>dorus</hi> in his Book of <hi>Orthography; Voſſius</hi> takes his word, which I very much wonder at, ſince he dedicates his Eighteen Books of Grammar to <hi>Julian</hi> the Conſul and <hi>Roman</hi> Patrician, which was according to <hi>Helvicus</hi>'s computation in the Year of the World <hi>4332,</hi> of Chriſt <hi>365.</hi> As to the place alſo of his Birth divers have been ſtrangely mi<g ref="char:EOLhyphen"/>ſtaken, in affirming he was born at <hi>Caeſarea</hi> (a mean Town of <hi>Paleſtine</hi> built by <hi>Herod,</hi> at this day called <hi>Balbee</hi> or <hi>Belmae,)</hi> though ſeveral credible Au<g ref="char:EOLhyphen"/>thors, and among the reſt <hi>Baptiſta Gna<g ref="char:EOLhyphen"/>zinus</hi> of <hi>Verona,</hi> do teſtifie that he was born at <hi>Rome.</hi> That which cauſed the miſtake, was (I preſume) becauſe <hi>Priſ<g ref="char:EOLhyphen"/>cian</hi>
+               <pb n="8" facs="tcp:107822:7"/>intitles himſelf of <hi>Caeſarea,</hi> choo<g ref="char:EOLhyphen"/>ſing rather to be call'd by the Name of the Place, where he had perfected moſt of his Studies, than by that of his Native Country. And it is but reaſon be ſhould be allowed room among the higheſt rank of Grammarians, who in the great Opinion of after-Ages, has gain'd ſuch a Prerogative above the reſt, that all the Faults committed a<g ref="char:EOLhyphen"/>gainſt <hi>Syntax</hi> (which we call <hi>Sole<g ref="char:EOLhyphen"/>ciſms)</hi> are imputed as ſo many Injuries done to <hi>Priſcian</hi>
+               <note n="(k)" place="margin">The meaning of break<g ref="char:EOLhyphen"/>ing <hi>Priſ<g ref="char:EOLhyphen"/>cians</hi>'s Head.</note>, as if the property of True-ſpeaking did of right belong ſolely to him. But of all <hi>Nicodemus Friſ<g ref="char:EOLhyphen"/>chlinus</hi> is moſt in the wrong, when in his <hi>Paralipomena</hi> he writes, that of all the Technical Grammarians now in being, <hi>Priſcian</hi> is the moſt ancient: which Error needs no other than <hi>Priſci<g ref="char:EOLhyphen"/>an</hi>'s own Confutation: for he in more places than one mentions <hi>Chariſius,</hi> to whom in his Ninth Book he joyns <hi>Pro<g ref="char:EOLhyphen"/>bus, Diomedes,</hi> and not long after <hi>Caper.</hi> And perhaps amongſt the Me<g ref="char:EOLhyphen"/>thodical Writers, who by raiſing them<g ref="char:EOLhyphen"/>ſelves above the common level, have laid upon us any higher obligation than the reſt, <hi>Theodoſius Macrobius</hi> (as <hi>Voſ<g ref="char:EOLhyphen"/>ſius</hi>
+               <pb n="9" facs="tcp:107822:7"/>calls him) would not have been of leſt account, if his Book <hi>De differentiis &amp; ſocietatibus Graeci Latinique Verbi</hi> had been extant. We have now but ſome cullings, adjuſted by <hi>John</hi> I know not who: For at the end of his Treatiſe, I find theſe words: <hi>Explicit deſloratio de libro</hi> Ambroſii, Macrobii, Theodoſii, <hi>quam</hi> Johannes <hi>carpſerat ad diſcendas Graecorum Verborum regulas. P. Pythaeus</hi> gueſs'd him to be <hi>John Erigena</hi> aliàs <hi>Scotus,</hi> that tranſlated <hi>Dionyſius</hi> the <hi>Areopagite</hi> into Latin, and was favoured for his Learning by <hi>Alfred</hi> King of <hi>England</hi> and <hi>Charles</hi> the Bald of <hi>France,</hi> as may be ſeen in <hi>Matthew</hi> of <hi>Weſtminſter</hi> upon the Year <hi>838</hi>
+               <note n="(l)" place="margin">Eodem Anno ve<g ref="char:EOLhyphen"/>nit in <hi>An<g ref="char:EOLhyphen"/>gliam</hi> Magiſter <hi>Johannes,</hi> Natione <hi>Scotus,</hi> Vir perſpicacis in<g ref="char:EOLhyphen"/>genii, &amp; facundiae ſingularis. Hic dudum relictâ patriâ, ad partes <hi>Gallicanas</hi> tranſiens, <hi>Carolum</hi> Calvum adiit, atque in magnâ ab eo dignatione ſuſceptus, individuus comes ei fuerat &amp; menſae &amp; cubiculi. Hujus autem ingenii &amp; ſcientiae mag<g ref="char:EOLhyphen"/>nitudo ac leporis exempla uſque hodie manent. Aſſederat namque ad menſam ante Regem ex oppoſito die quadam, ubi conſumtis ferculis, poculiſque diſcurrentibus, <hi>Carolus</hi> frmte hilarior eſt effectus. Rex denique cum Magiſtrum <hi>Johannem</hi> vidiſſet quiddam egiſſe, quod comitatem <hi>Gallicanam</hi> offendere videretur, increpavit eum ſatis urbanè, dicens: <hi>Johannes,</hi> Quid diſtat inter <hi>Scotum</hi> &amp; <hi>Sctum?</hi> Ille reſpondit, &amp; dixit Regi, <hi>Menſa tantúm.</hi> — Nec verò Rex verbis ejus commotus eſt, ſed potiùs ipſum, cum aſſeſſoribus ſuis, commovit ad cachinnum.</note>,
+<pb n="10" facs="tcp:107822:8"/>(which moſt choice Piece of Antiquity I owe to the kindneſs of that Learned Pa<g ref="char:EOLhyphen"/>tron of Learning, <hi>Edward Lee</hi> of <hi>Norwell,</hi> Eſquire.) <hi>William</hi> of <hi>Malmſ<g ref="char:EOLhyphen"/>bury
+<note n="(m)" place="margin">Lib. 2. de geſtis Regum <hi>Anglorum,</hi> cap. 4.</note>, Cambden</hi>'s <hi>Remains</hi>
+               <note n="(n)" place="margin">Among the Epitaphs.</note>, and Others.</p>
+            <p>As for <hi>Macrobius</hi> himſelf, he flouriſht in the Age of <hi>Theodoſius</hi> the Elder, and his Sons; Nay, <hi>Iſacius Pontanus</hi>
+               <note n="(o)" place="margin">In his Notes up<g ref="char:EOLhyphen"/>on <hi>Ma<g ref="char:EOLhyphen"/>crobius</hi>'s Book. 1. Sat. cap. 1.</note> certifies, that he was Maſter of the Sacred Bed-chamber under <hi>Honorius</hi> and <hi>Theodoſius</hi> the Younger. There are alſo extant upon the Are of Grammar, the ſmaller Commentaries of <hi>Aſper</hi> the Younger, <hi>Phocas, Aelius Donatus, Ser<g ref="char:EOLhyphen"/>vius Marius Honoratus, Sergius, Ma<g ref="char:EOLhyphen"/>ximus, Victorinus, Cledonius</hi> a Ro<g ref="char:EOLhyphen"/>man Senator, and a Grammarian of <hi>Conſtantinople,</hi> St. <hi>Auguſtin</hi> Biſhop of <hi>Hippo, P. Conſentius, Flaccus Alcui<g ref="char:EOLhyphen"/>nus</hi> of <hi>York, Beda's</hi> Scholar, afterwards Tutor to <hi>Charles</hi> the Great, and <hi>Eutyches,</hi> who wrote two Books about diſtinguiſhing the Conjugations. Beſides theſe there are ſome that treat particularly of <hi>Ortho<g ref="char:EOLhyphen"/>graphia,</hi> viz. <hi>Velius Longus, Flavius
+<pb n="11" facs="tcp:107822:8"/>Caper,</hi> a very ancient Grammarian, <hi>Te<g ref="char:EOLhyphen"/>rentianus Scaurus, Agroëtius,</hi> Venerable <hi>Beda, Marius Victorinus, and</hi> (who is in my judgment <hi>inſtar omnium) Caſſiodo<g ref="char:EOLhyphen"/>rus,</hi> who to compoſe his little Tract con<g ref="char:EOLhyphen"/>cerning <hi>Orthography,</hi> extracted the Eſ<g ref="char:EOLhyphen"/>ſence of no leſs than Twelve Grammari<g ref="char:EOLhyphen"/>ans. Others have more cloſely confin'd themſelves to <hi>Proſodia</hi> and Verſe, ſuch are <hi>Terentianus Maurus, Marius Vi<g ref="char:EOLhyphen"/>ctorinus, Marius Plotius, Caeſius Baſſius, &amp;c.</hi> Theſe are they that later Ages have denominated Grammarians of the Elder Houſe.</p>
+            <p>For about the beginning of the Eighth Century, that Line (whereof <hi>Alcuinus</hi> was the laſt) was quite extinct. After which time for the ſpace of Four hundred Years, I find not one Technical Gramma<g ref="char:EOLhyphen"/>rian. <hi>Ab hoc tempore</hi> (as Mr. <hi>Ri<g ref="char:EOLhyphen"/>chardſon</hi> ſpeaks in another
+<note n="(p)" place="margin">De Stylo for<g ref="char:EOLhyphen"/>mando, cap. 4.</note> ſenſe) <hi>offuſa eſt Reip. Literariae nox longa, per quatuor ſcilicet ſecula, eáque adeò tenebricoſa, ut Latinitas ferè nuſquam, ejus umbra quaedam in Monachorum clauſtris &amp; Scholis, eſſet.</hi> But about the Year <hi>1200,</hi> after the Latin Tongue had been for many Ages moſt miſerably torn in pieces, and brought almoſt to its Funeral
+<pb n="12" facs="tcp:107822:9"/>Pile by the <hi>Goths</hi> and other Barbarians; One <hi>Alexander</hi> a French-man firſt re<g ref="char:EOLhyphen"/>triev'd it from approaching annihilation, by publiſhing his <hi>Doctrinale;</hi> which Work nevertheleſs was afterward thought by all Learned Men unfit for Boys, as being too obſcure, unprofitably tedious, and moſtly barbarous, inſufficient and falſe. Where<g ref="char:EOLhyphen"/>fore to expel <hi>Alexander</hi> out of all Schools, many Men of great Learning and Wiſ<g ref="char:EOLhyphen"/>dom in moſt places of <hi>Chriſtendom</hi> ſet themſelves to write a more <hi>Latine</hi> and truer Grammar: In <hi>Italy, Nicolaus Pe<g ref="char:EOLhyphen"/>rottus, Joannes Sulpitius, Antonius Mancinellus,</hi> and <hi>Aldus Manutius.</hi> In <hi>France, Gulielmus Tardivus, Robertus Guaguinus, Jodocus Badius de Linguâ Latinâ optimè meritus,</hi> ſaith <hi>Deſpau<g ref="char:EOLhyphen"/>terius.</hi> In <hi>Spain, Antonius Nebriſſen<g ref="char:EOLhyphen"/>ſis,</hi> by <hi>Deſpauter</hi> ſtiled <hi>Hiſpanorum Do<g ref="char:EOLhyphen"/>ctiſſimus,</hi> who dedicated his Grammar to Queen <hi>Iſabel.</hi> In <hi>Germany, Henricus Bebelius, Jacobus Henrichmannus, Ge<g ref="char:EOLhyphen"/>rardus Cannifius</hi>
+               <note n="(q)" place="margin">One of <hi>Deſpauter</hi>'s School-Maſters.</note> B. D. and Chief Maſter in the School of <hi>Bois le duc</hi> in <hi>Brabant,</hi> and many Others, whoſe Names are worthy to be inſcribed on <hi>Corinthian</hi> Braſs, nor ſhould they be here paſſed over in ſilence, would they not ſwell this <hi>Proëm</hi>
+               <pb n="13" facs="tcp:107822:9"/>beyond its intended bulk. Tho others there were, who endeavoured (but without ſuc<g ref="char:EOLhyphen"/>ceſs) to keep <hi>Alexander</hi> on his legs, by explaining the Obſcurities, rectifying the Miſtakes, ſupplying the Defects, and re<g ref="char:EOLhyphen"/>trenching the Superfluities in his <hi>Doctri<g ref="char:EOLhyphen"/>nale;</hi> of whom the chief were <hi>Herman<g ref="char:EOLhyphen"/>nus Torrentinus</hi> a <hi>Hollander,</hi> and <hi>Jo<g ref="char:EOLhyphen"/>hannes Cuſtos
+<note n="(r)" place="margin">Another of <hi>Deſpau<g ref="char:EOLhyphen"/>ter</hi>'s Ma<g ref="char:EOLhyphen"/>ſters.</note> Brechtanus,</hi> School-Maſter of <hi>Antwerp.</hi>
+            </p>
+            <p>As for our <hi>Engliſh</hi> Grammarians of this younger Family, they date their Ori<g ref="char:EOLhyphen"/>ginal from the happy contexture of the white and red Roſes: For ſince the time of <hi>Henry</hi> the Seventh, it hath been the ſin<g ref="char:EOLhyphen"/>gular care of worthy Learned men to lay a ſolid foundation for all kind of Learn<g ref="char:EOLhyphen"/>ing by producing a right Grammatical Inſtitution. For though before his time a great part of our Country-men
+<note n="(s)" place="margin">The caſe was the ſame with the <hi>Ger<g ref="char:EOLhyphen"/>mans,</hi> ſaith <hi>Eraſmue,</hi> Epiſt. p. 989.</note> had little leiſure, and leſs care of liberal Arts; yet when the Houſes of <hi>York</hi> and <hi>Lan<g ref="char:EOLhyphen"/>caſter</hi> were united by the precious Advice of <hi>John Morton</hi> Biſhop of <hi>Ely,</hi> and Times grew more Halcion; <hi>John Holt,</hi> about the Year of Chriſt <hi>1497.</hi> printed a ſhort Grammar call'd <hi>Lac Puerorum,</hi> and dedicated it to the ſame <hi>John Mor<g ref="char:EOLhyphen"/>ton,</hi> then for his great Merits inſtalled
+<pb n="14" facs="tcp:107822:10"/>Archbiſhop of <hi>Canterbury.</hi> About the Yoar <hi>1505. John Stanbridge,</hi> and his Scholar <hi>Robert Whittington,</hi> and O<g ref="char:EOLhyphen"/>thers, put forth divers Treatiſes of Gram<g ref="char:EOLhyphen"/>mar. But in a more eſpecial manner Dr. <hi>Colet,</hi> the Reverend and Learned Dean, and liberal Founder of the School of St. <hi>Pauls,</hi> compiled the Introduction of the Eight Parts of Speech in the Year <hi>1509;</hi> And Mr. <hi>Lilie,</hi> firſt School<g ref="char:EOLhyphen"/>maſter of <hi>Pauls,</hi> an <hi>Engliſh Syntax;</hi> And three of four Years after <hi>Johannes Deſpauterius,</hi> in the <hi>Netherlands,</hi> wrote his Grammatical Commentaries, To Mr. <hi>Lilie</hi>'s Conſtruction of the Eight parts of Speech, Cardinal <hi>Wolſey</hi> afterwards, in the Year <hi>1528.</hi> prefixt an Epiſtle, and Directions for teaching the eight Claſſes of Forms in <hi>Ipſwich-School. Eraſ<g ref="char:EOLhyphen"/>mus</hi>
+               <note n="(t)" place="margin">See his Preface.</note> alſo intreated by Dr. <hi>Colet</hi>
+               <note n="(u)" place="margin">See his <hi>Colloq. Pie<g ref="char:EOLhyphen"/>tas Pueri<g ref="char:EOLhyphen"/>lis.</hi>
+               </note>, his intimate Friend, to reviſe Mr. <hi>Lilie</hi>'s <hi>Syntax,</hi> made a new Latin one, in the Year <hi>1513,</hi> upon which in <hi>1539, Henry,</hi> Prime Schoolmaſter of the Monaſtery, and in <hi>1540, Leonard Cox</hi> of <hi>Carleon</hi> in <hi>Wales</hi>
+               <note n="(w)" place="margin">Teach<g ref="char:EOLhyphen"/>er of the Languages in <hi>Poland, Hungary,</hi> and <hi>Ger<g ref="char:EOLhyphen"/>many.</hi>
+               </note>, Commented. Alſo about the Year <hi>1522,</hi> at Queen <hi>Katherines</hi> Re<g ref="char:EOLhyphen"/>queſt, <hi>Thomas Linacer,</hi> Phyſician to King <hi>Henry</hi> the Eighth, and <hi>Ludovicus
+<pb n="15" facs="tcp:107822:10"/>Vives</hi> wrote <hi>Rudimenta Grammatices</hi> for Queen <hi>Maries</hi> uſe. And Dr. <hi>Lina<g ref="char:EOLhyphen"/>cer</hi> his Book <hi>De emendatâ Structurâ,</hi> which hath ever ſince been the <hi>Cynoſura</hi> for many of our beſt Grammarians. Mr. <hi>Lilie</hi> wrote alſo <hi>Propria quae maribus &amp; As in praeſenti;</hi> which Mr. <hi>Ritwiſe</hi> one of his Succeſſors publiſhed, in the Year <hi>1535,</hi> if not before, <hi>Cum vocabulorum interpretatione.</hi> In <hi>1532 Thomas Ro<g ref="char:EOLhyphen"/>bertſon</hi> a Schoolmaſter in <hi>Oxford,</hi> printed a Comment on the Rules which <hi>Lilie</hi> wrote in Verſe, added <hi>Quae genus,</hi> and the verſifying Rules, which he dedicated to <hi>John Longland</hi> Biſhop of <hi>Lincoln,</hi> with reference to <hi>Henly-School.</hi>
+            </p>
+            <p>From this variety of pains in Gram<g ref="char:EOLhyphen"/>mar ſprung a great diverſity in the courſe of Teaching, to which King <hi>Henry</hi> the Eighth (in whoſe Reign <hi>Philology</hi> had in a manner the whole Vogue of Reputa<g ref="char:EOLhyphen"/>tion) intending to obviate
+<note n="(x)" place="margin">See the Preface to the Com<g ref="char:EOLhyphen"/>mon Gram<g ref="char:EOLhyphen"/>mar.</note>, and upon great Advice to preſcribe a publick uni<g ref="char:EOLhyphen"/>form way of Institution, cauſed ſundry Learned Men (among whom 'tis ſaid, was Dr. <hi>Richard Cox</hi>
+               <note n="(y)" place="margin">Some<g ref="char:EOLhyphen"/>time Schoolmaſter of <hi>Eaton,</hi> and afterwards Dean of <hi>Weſtminſter</hi> and Biſhop of <hi>Ely.</hi>
+               </note>, Tutor to
+<pb n="16" facs="tcp:107822:11"/>King <hi>Edward</hi> the Sixth) to reduce the former Attempts in this kind into one Body of Grammar, They joyntly produced the Grammar, now in <g ref="char:V">Ʋ</g>ſe, in the Year <hi>1545.</hi>
+            </p>
+            <p>But ſince thoſe Times the Art of Gram<g ref="char:EOLhyphen"/>mar, having received larger advantages by the labours of Learned men both at home and abroad, in the foregoing and preſent Age, it has come to paſs, that the Methods, which were generally received, have fallen into contempt. Nay, even in the Year <hi>1540, Julius Caeſar Scaliger,</hi> aliàs <hi>Burdo,</hi> wrote Thirteen Books <hi>De Cauſis Linguae Latinae.</hi> And ſix Years after <hi>Bartholomew Grave,</hi> a Book-ſeller of <hi>Lovain,</hi> procur'd a Grant from <hi>Charles</hi> the Fifth, that bears date the <hi>27th</hi> Year of his Empire, for printing <hi>John Rivius</hi>'s Grammar, which he ſet forth in Seven Books the ſame Year. In <hi>1562. Martinus Cruſius</hi> of <hi>Tubingen,</hi> an <g ref="char:V">Ʋ</g>niverſity of <hi>Wirtenberg,</hi> wrote his <hi>Grammatica Latina cum Graeca con<g ref="char:EOLhyphen"/>gruens.</hi> In <hi>1575 Ludolfus Lithoco<g ref="char:EOLhyphen"/>mus,</hi> Schoolmaſter of <hi>Duſſeldorp,</hi> a City in the Dutchy of <hi>Berg,</hi> publiſhed a Grammar for the uſe of his School, which in <hi>1626 Gerardus Joannes Voſſius,</hi> by Order from the States of <hi>Holland</hi>
+               <pb n="17" facs="tcp:107822:11"/>and <hi>Weſtfrizeland,</hi> reviſed and added very uſeful Obſervations by way of Com<g ref="char:EOLhyphen"/>ment. In this Liſt alſo are <hi>Saturnius, Coelius, Emanuel Alvarez, Nicodemus Friſchlinus, Rhenius, Ramus, Richerius,</hi> the Author of the <hi>Gryphiſwald</hi> Gram<g ref="char:EOLhyphen"/>mar, <hi>Cornelius Valerius</hi> of <hi>Utrech,</hi> and divers Others.</p>
+            <p>Nor have we in <hi>England</hi> at all come ſhort of our neighbouring Nations in this profitable ſtudy: for in King <hi>Edward</hi> the Sixth's time, Mr. <hi>John Fox,</hi> in <hi>1551,</hi> ſet forth Tables of Grammar, ſubſcribed in print by Eight Lords of the Privy-Council; but theſe Tables were quickly laid aſide, as being far more too ſhort, than King <hi>Henry</hi>'s Grammar was too long. And tho after him there were not any further Eſſays made in <hi>Technology,</hi> for above Fourſcore years; but all men acquieſced in the Common Grammar, du<g ref="char:EOLhyphen"/>ring the Times of Queen <hi>Mary,</hi> Queen <hi>Elizabeth,</hi> and King <hi>James;</hi> yet in the Reign of King <hi>Charles</hi> the firſt, about the Year <hi>1636, John Danes</hi> of <hi>Maldon</hi> made a conſiderable improvement in this Art, by hanging out a Light to <hi>Lilie,</hi> upon which, in <hi>1638,</hi> he publiſhed his elaborate <hi>Scholia.</hi> Much about this
+<pb n="18" facs="tcp:107822:12"/>Time alſo <hi>Thomas Hayne</hi> (one of the Maſters in <hi>Chriſt</hi>'s Hoſpital, after that in <hi>Merchant Taylors</hi> School) wrote a Grammar, entituled <hi>Grammatices La<g ref="char:EOLhyphen"/>tinae Compendium.</hi> In the Year <hi>1640 Thomas Farnabie,</hi> the Glory of our <hi>Engliſh</hi> Criticks, ſet forth his <hi>Syſtema Grammaticum.</hi> And ſince then New Grammars have been ever and anon coming forth ('tis to be concluded ſome<g ref="char:EOLhyphen"/>what is amiſs in the Old, why elſe ſhould the Learned Authors of them ſpend their pains in compoſitions of New?) For not to inſiſt on every trifling Grammaticaſter. <hi>Anthony Huiſh, James Shirley, Charles Hool, John Milton, Paul P. Jaz-Berenyi,</hi> Mr. <hi>Burles,</hi> Mr. <hi>Bird</hi>
+               <note n="(z)" place="margin">
+                  <hi>A School-Maſter of</hi> Gleceſter.</note>, Mr. <hi>Harris,</hi> Mr. <hi>Lewis</hi> of <hi>Tottenham,</hi> Mr. <hi>Chriſtopher Waſe,</hi> Dr. <hi>Busbey</hi> the Ru<g ref="char:EOLhyphen"/>diment Writer, Mr. <hi>William Baxter,</hi> Mr. <hi>Clement Ellis</hi>
+               <note n="(a)" place="margin">
+                  <hi>The In<g ref="char:EOLhyphen"/>genious Author of</hi> The Gentile Sinner.</note>, have all given us New Models of Grammar; Whilſt Others think<g ref="char:EOLhyphen"/>ing it a ſafer way to repair the Old Fa<g ref="char:EOLhyphen"/>brick than to erect a New one, ſet themſelves to amend <hi>Lilie.</hi> To this end, in the Year <hi>1664,</hi> Mr. <hi>Edward Leeds,</hi> (my Worthy, tho not immediate Predeceſſour in this School) put forth his <hi>Voſſius</hi> in <hi>Supple<g ref="char:EOLhyphen"/>mentum vulgaris Grammatices con<g ref="char:EOLhyphen"/>tractus.</hi>
+               <pb n="19" facs="tcp:107822:12"/>And in <hi>1669,</hi> the Induſtrious, and in Didacticks acutely Judicious Mr. <hi>Walker,</hi> publiſhed his Explanations of the Royal Grammar, <hi>Opus doctum</hi> (Jupiter!) <hi>&amp; laborioſum!</hi> Theſe in<g ref="char:EOLhyphen"/>deed are late Writers, if compar'd to thoſe of the former Claſs; yet ſince they are of the Sect of <hi>Crates,</hi> and in their Principles do cloſely adhere to the <hi>Trium<g ref="char:EOLhyphen"/>viri,</hi> tho they widely differ from them, and no leſs from each other in their method (for that has in all Times been diverſly purſued,) I ſay, ſince they give <hi>Priſcian</hi>'s Coat, I ſhall take the liberty to give them his Title, and stile them <hi>Old Gramma<g ref="char:EOLhyphen"/>rians.</hi> Strange Fate! That a Gram<g ref="char:EOLhyphen"/>mar, which all men, that wear their Senſes, acknowledge to be tedious
+<note n="(b)" place="margin">
+                  <hi>So te<g ref="char:EOLhyphen"/>dious, that the Muſes Darling, Mr.</hi> Cowley, <hi>tells us, his Maſters could ne<g ref="char:EOLhyphen"/>ver prevail on him, by any perſwaſi<g ref="char:EOLhyphen"/>ons or en<g ref="char:EOLhyphen"/>courage<g ref="char:EOLhyphen"/>ments, to learn with<g ref="char:EOLhyphen"/>out Book the Com<g ref="char:EOLhyphen"/>mon Rules therein. See his Diſ<g ref="char:EOLhyphen"/>courſe up<g ref="char:EOLhyphen"/>on himſelf, pag. 143.</hi>
+               </note> and impra<g ref="char:EOLhyphen"/>cticable. A Grammar, which interferes with all the Principles of true <hi>Didacticks,</hi> ſhould deceive the World for the ſpace of One Thouſand eight Hundred and Fifty Years! A thing, you'l ſay, that exceeds all belief, as much as it does wonder, that the <hi>Romans</hi> ſhould patiently ſuffer them<g ref="char:EOLhyphen"/>ſelves, and through them all Poſterity, to be impos'd upon by a Grammar, which they must neceſſarily own to be notoriouſly falſe. Why, do but ſuſpend your incre<g ref="char:EOLhyphen"/>dulity
+<pb n="20" facs="tcp:107822:13"/>a while, and perhaps <hi>Scioppius</hi> may give you ſatisfaction. <hi>Neque verò</hi> (ſaith he)
+<note n="(c)" place="margin">In the Preface to his Philo<g ref="char:EOLhyphen"/>ſophical Grammar.</note> 
+               <hi>admirabile duxi</hi> Cloaci<g ref="char:EOLhyphen"/>nam <hi>iſtam Grammaticam inde ab eo, quo</hi> Romae <hi>primùm exorta eſt, tem<g ref="char:EOLhyphen"/>pore, ad hanc uſque diem per ipſos MDCCXCVI annos inconcuſſam per<g ref="char:EOLhyphen"/>ſtitiſſe, &amp; omnium non</hi> Tironum <hi>modò, ſed &amp; ipſorum eloquentiae Latinae principum ingenia excarnificare po<g ref="char:EOLhyphen"/>tuiſſe. Jus quippe gentium violare ſibi</hi> Romani <hi>videbantur, ſi hanc in<g ref="char:EOLhyphen"/>vectam à Regio Legato artem parem comiter habuiſſent, cum praeſertim Re<g ref="char:EOLhyphen"/>gi</hi> Attalo <hi>tantùm ſe devinctos agnoſ<g ref="char:EOLhyphen"/>cerent, quippe qui regnum ſuum teſta<g ref="char:EOLhyphen"/>mento ipſis legáſſet, aditumque eo pa<g ref="char:EOLhyphen"/>cto ad</hi> Aſiae <hi>totius Imperium mox armis vindicandum patefeciſſet.</hi>
+            </p>
+            <p>
+               <hi>Ojbect.</hi> This (I grant) muſt needs be a great <hi>Remora</hi> to the <hi>Romans;</hi> but what could impede theſe two laſt Ages, Ages of Projects and Experiments, from exploding the old Hypotheſis, and found<g ref="char:EOLhyphen"/>ing a New Grammar on truer Principles? For 'tis very obvious, that ſince <hi>Printing</hi> and <hi>Navigation</hi> have given a general Converſe to Mankind; all Arts and
+<pb n="21" facs="tcp:107822:13"/>Sciences have been exceedingly impro<g ref="char:EOLhyphen"/>ved.</p>
+            <p>
+               <hi>Anſw.</hi> They have ſo; Only the Edu<g ref="char:EOLhyphen"/>cation of Youth here in <hi>England</hi> ſtands at a ſtay, and is the ſame it was almoſt Two hundred Years ſince, when <hi>Lilie</hi>'s Gram<g ref="char:EOLhyphen"/>mar was firſt compiled; as if in the very Twilight, when Reformed Learning firſt peep'd into the World, things were brought to that ſtate, that nothing might be fur<g ref="char:EOLhyphen"/>ther ſuggeſted without a Crime.</p>
+            <p>Now the Reaſons of this Epidemical Supineneſs appear to me to be theſe two.</p>
+            <p>
+               <hi>Firſt,</hi> King <hi>Henry</hi>'s Mandate (en<g ref="char:EOLhyphen"/>joyning all Schools to teach only <hi>Lilie</hi>'s Grammar, which in its time was well enough) had ſet a <hi>Non Ultra</hi> to all <g ref="char:V">Ʋ</g>ndertakings in that Nature for the ſuc<g ref="char:EOLhyphen"/>ceeding Generation: This it was that gave occaſion to Mr. <hi>Danes</hi> of that hear<g ref="char:EOLhyphen"/>ty Complaint he makes in the Epiſtle De<g ref="char:EOLhyphen"/>dicatory, before his <hi>Paralipomena. Dolebam ſanè &amp; indignabar, à tem<g ref="char:EOLhyphen"/>pore diſertiſſimi noſtri</hi> Linacri, <hi>cujus Emendata Structura ad barbariem ex<g ref="char:EOLhyphen"/>pellendam non parum contulit, ad hunc uſque diem extitiſſe Neminem è noſtratibus, cui Res Grammatica
+<pb n="22" facs="tcp:107822:14"/>curae.</hi> And indeed it would be very un<g ref="char:EOLhyphen"/>fortunate, if, becauſe One General Me<g ref="char:EOLhyphen"/>thod is by Law impoſed, and for the common benefit to be admitted; We ſhould therefore be oblig'd for ever to forfcit the Advantages, to be reaped from the im<g ref="char:EOLhyphen"/>provements of ſucceeding times.</p>
+            <p>
+               <hi>Secondly,</hi> As to the preſent Age, Our Miſery is, there has been, and ſtill is in it a ſort of Road-wirted Perſons, whom obſtinately corrupt Cuſtom will not permit to take up the New <hi>Sumpſimus,</hi> and lay down the Old <hi>Mumpſimus:</hi> Theſe (like the <hi>Iriſh,</hi> that dragged their Ploughs by their Horſes Tails) plead Preſcription, and will by no means have it otherwiſe; but rail like bawling Currs at all Men, that would make a ſurer and plainer Road, and go faſter than the Ordinary Pace.</p>
+            <p>So that we had long e're this utter<g ref="char:EOLhyphen"/>ly deſpaired of ever ſeeing a perfect Syſtem of the Latin Grammar, had not that <hi>Verè adeptus,</hi> as well in Philoſophy as Philology, <hi>Franciſcus Sanctius Bro<g ref="char:EOLhyphen"/>cenſis</hi> a <hi>Spaniard,</hi> our Proto-Reformer, (in his <hi>Minerva, ſive de Cauſis Linguae Latinae Commentarius,</hi> printed at <hi>Ma<g ref="char:EOLhyphen"/>drid</hi> about the Year <hi>1560)</hi> firſt detected ſome Thouſands of Erroneous and Hete<g ref="char:EOLhyphen"/>rodox
+<pb n="23" facs="tcp:107822:14"/>Tenets in the Old, and after that drawn a new Scheme according to thoſe true Idea's, he had formed in his Mind by a diligent ſearch into the myſterious and before unfathomed depths of that Language. This is that <hi>Grammatica Sanctiana,</hi> which <hi>Gaſpar Scioppius</hi> a <hi>French-man,</hi> Earl of <hi>Claravalle,</hi> and of the Council to the Emperour <hi>Ferdi<g ref="char:EOLhyphen"/>nand</hi> the Second, and <hi>Philip</hi> the Fourth, King of <hi>Spain,</hi> glories that he carried from <hi>Salamanca</hi> to <hi>Rome.</hi> 
+               <g ref="char:V">Ʋ</g>pon which foundation of his Maſter <hi>Sanctius</hi> (as <hi>Jaſper</hi> calls him) the ſame <hi>Paſchaſius Groſippus</hi> raiſed an excellent Super<g ref="char:EOLhyphen"/>ſtructure; For he, tho a man of moſt prodigious knowledge in both the Critical and Technical part, being loth to rely on his own Judgment, communicated his de<g ref="char:EOLhyphen"/>ſign with <hi>Scipio Paſchalius</hi> Biſhop of <hi>Caſal, Virginius Caeſarinus</hi> of <hi>Rome, William Seton</hi> a <hi>Scotch</hi> Nobleman, <hi>Baldunus de monte Simencelli,</hi> and <hi>Antonius Salmatia</hi> of <hi>Mantua, Ludo<g ref="char:EOLhyphen"/>vicus Septalius</hi> of <hi>Milan,</hi> and <hi>Joſephus Paulus Meronus;</hi> all of them Men ſtu<g ref="char:EOLhyphen"/>dious to advance Learning; and upon their Encouragements in <hi>1628</hi> publiſhed his <hi>Grammatica Philoſophica:</hi> To
+<pb n="24" facs="tcp:107822:15"/>which in the Year following <hi>Mariangelus</hi> à <hi>Fano Benedicti,</hi> a Patrician of <hi>Milan,</hi> added his <hi>Auctarium: In quo</hi> (ſaith he in his Epiſtle Dedicatory to <hi>Hieronymus de Sagarraga) non quicquam invenies, quin id vel ex libris</hi> Groſippi, <hi>qua ſcri<g ref="char:EOLhyphen"/>ptis, qua editis, mutuatus ſim; vel ex vivâ voce, mecum &amp; cum aliis homini<g ref="char:EOLhyphen"/>bus doctis, officii causà ſubinde eum viſere ſolitis, diſſerentis arripuerim.</hi>
+            </p>
+            <p>Nevertheleſs this Grammar, tho found<g ref="char:EOLhyphen"/>ed on ſuch infallible unerring Principles, promoted and carried on by ſuch curious Obſervations, wanted yet many degrees of Perfection, till the incomparable <hi>Gerard John Voſſius</hi> of <hi>Heydelberg,</hi> of whoſe Learning take this account from his Adverſary <hi>Scioppius:</hi>
+               <q>
+                  <l>
+                     <hi>Ingens huic noſtro decus eſt</hi> Salma<g ref="char:EOLhyphen"/>ſius <hi>aevo,</hi>
+                  </l>
+                  <l>
+                     <hi>Nec minùs aetatem hanc ornat ſapi<g ref="char:EOLhyphen"/>entia</hi> VOSSI,</l>
+                  <l>
+                     <hi>His faſces, quicunque ſapit, ſubmiſ<g ref="char:EOLhyphen"/>ſeret ultro.</hi>
+                  </l>
+                  <l>
+                     <hi>Quod ſacio ipſe lubens, ſeclique haec lumina adoro,</hi>
+                  </l>
+                  <l>
+                     <hi>Contentus didiciſſe, magis quae ſcire neceſſe eſt,</hi>
+                  </l>
+                  <pb n="25" facs="tcp:107822:15"/>
+                  <l>
+                     <hi>Quaeque meo poſſunt lectori adferre falutem,</hi>
+                  </l>
+                  <l>
+                     <hi>Quae neſciviſſe &amp; Reges, &amp; perdidit urbes.</hi>
+                  </l>
+               </q> I ſay, till this wiſe Architect had fi<g ref="char:EOLhyphen"/>niſhed the beautiful Structure, and in <hi>1635</hi> ſet up the <hi>Cupulo,</hi> his <hi>Ariſtarchus,</hi> I mean, wherein it is not a little ſtrange to ſee how harmoniouſly he accords with <hi>Sanctius</hi> and <hi>Scioppius:</hi> The former of which never came to his hands, nor the later till this great Work of his was in the Preſs. Witneſs himſelf
+<note n="(d)" place="margin">De Conſtruct. cap. 49. De Arte Grammat. lib. 2. cap. 3.</note>, <hi>Sanè ne nunc quidem</hi> Minerva Sanctiana <hi>in ma<g ref="char:EOLhyphen"/>nus meas pervenit.</hi> Groſippiana, <hi>non niſi dum hoc opere praelum ſerveret. Jucundiſſimum autem fuit videre non pauca me cum iis communia habere; partem multò antè, quàm</hi> Scioppiana <hi>prodirent, à nobis monita in libellis Grammaticis juſſu</hi> Procerum <hi>in Scho<g ref="char:EOLhyphen"/>larum</hi> Hollandiae <hi>&amp;</hi> Westfriſiae <hi>uſum di<g ref="char:EOLhyphen"/>vulgatis, partim tradita nobis in hiſce commentariis, quos maximâ ex parte ante Annos XXX, &amp; amplius ſcripſi<g ref="char:EOLhyphen"/>mus, cumque juventute &amp; amicorum mult is communicavimus,</hi>
+            </p>
+            <pb n="26" facs="tcp:107822:16"/>
+            <p>Theſe Three are they, which that Learn<g ref="char:EOLhyphen"/>ed Gentleman of <hi>Oxford,</hi> the Commen<g ref="char:EOLhyphen"/>tator upon <hi>Lilie,</hi> has analyzed; and I could heartily wiſh that ingenious Perſon (who, becauſe the Rules of <hi>Lilie</hi>'s <hi>Pro<g ref="char:EOLhyphen"/>pria quae maribus,</hi> and <hi>As in praeſenti,</hi> are ſo maimed and imperfect, that they cannot eaſily be mended with Annotations, hath propoſed others more eaſie, and infi<g ref="char:EOLhyphen"/>nitely more compleat) would, conſidering the grand Inconveniences of the <hi>Quae ge<g ref="char:EOLhyphen"/>nus</hi> and <hi>Syntax,</hi> ſpeedily apply both his Head and Hand to an alteration (where I am ſure there is greater Reaſon for it) there alſo; That ſo at laſt it may receive all the degrees of Perfection, and be made to ſerve the uſes of the Publick.</p>
+         </div>
+      </front>
+      <body>
+         <div type="grammar">
+            <pb n="1" facs="tcp:107822:16"/>
+            <head>A General Examination OF The <hi>OXFORD</hi> Grammar.</head>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">W</seg>Hat is Grammar?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>It is the Art of ſpeaking purely.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How many are the Parts of Gram<g ref="char:EOLhyphen"/>mar?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Four.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which are they?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Firſt, <hi>Orthographia,</hi> or <hi>Orthoepia.</hi> Secondly, <hi>Proſodia.</hi> Thirdly, <hi>Etymo<g ref="char:EOLhyphen"/>logia</hi> or <hi>Analogia.</hi> Fourthly, <hi>Syntaxis.</hi>
+               </p>
+               <pb n="2" facs="tcp:107822:17"/>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What is</hi> Orthographia, <hi>or</hi> Or<g ref="char:EOLhyphen"/>thoëpia?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>It is the firſt Part of Grammar, which teaches the Nature, Affections, or Accidents of Letters.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How many Latin Letters are there?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Nineteen, <hi>viz.</hi> Five Vowels, <hi>a, e, i, o, u.</hi> Fourteen Conſonants, <hi>b, c, d, f, g, jod, l, m, n, p, r, ſ, t, van.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What is</hi> Proſodia?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>'Tis the ſecond Part of Gram<g ref="char:EOLhyphen"/>mar, which teaches the differences of Syllables.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What is</hi> Etymologia <hi>or</hi> Ana<g ref="char:EOLhyphen"/>logia?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>'Tis the third Part of Grammar, which ſhews the properties of each part of Speech.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What is</hi> Syntaxis?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>'Tis the fourth Part of Grammar, which teaches the due joyning of words in Conſtruction.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What therefore is the Object of</hi> Orthoëpia, <hi>or the Subject which</hi> Orthographia <hi>handles?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Letters.</p>
+               <pb n="3" facs="tcp:107822:17"/>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What is the Object of</hi> Pro<g ref="char:EOLhyphen"/>ſodia?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Syllables.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What is the Object of</hi> Ana<g ref="char:EOLhyphen"/>logia?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Single Words.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What is the Object of</hi> Syntaxis?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>A Sentence.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How are theſe four Parts generally divided?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Each Part is generally divided in<g ref="char:EOLhyphen"/>to <hi>Simple</hi> or <hi>Regular, Figurative</hi> or <hi>Ir<g ref="char:EOLhyphen"/>regular.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How many Parts of the Re<g ref="char:EOLhyphen"/>gular</hi> Etymologia <hi>are there?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Eight, which take their Names from the Eight parts of Speech, which it treats of diſtjnctly.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How many therefore are the Heads or Parts of Speech or Lan<g ref="char:EOLhyphen"/>guage?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>All Words may be reduced to one of theſe Eight heads, <hi>ſc. Noun, Pro<g ref="char:EOLhyphen"/>noun, Verb, Participle, Adverb, Conjun<g ref="char:EOLhyphen"/>ction, Prepoſition, Interjection.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How do you define a</hi> Noun?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>A <hi>Noun</hi> is a Word, which ſigni<g ref="char:EOLhyphen"/>fies a Thing or its Quality, primarily and by its own Nature.</p>
+               <pb n="4" facs="tcp:107822:18"/>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Define a</hi> Pronoun.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>A <hi>Pronoun</hi> is a word, that prima<g ref="char:EOLhyphen"/>rily reſpects the <hi>Noun,</hi> for which 'tis uſed, and ſecondarily ſignifies a Thing.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Define a</hi> Verb.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>A <hi>Verb</hi> is a word, that beſides its primary and natural ſignification, hath an additional one of Time; but no Caſes.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Define a</hi> Participle.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>A <hi>Participle</hi> is a word, which is varied by Caſes, having an additional ſignification of Time.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How do you define an</hi> Ad<g ref="char:EOLhyphen"/>verb?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>An <hi>Adverb</hi> is a word, that is added to a <hi>Noun, Verb,</hi> or <hi>Participle, &amp;c.</hi> to denote ſome circumſtance or qua<g ref="char:EOLhyphen"/>lity.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How do you define a</hi> Prepoſi<g ref="char:EOLhyphen"/>tion?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>A <hi>Prepoſition</hi> is a word, that ſig<g ref="char:EOLhyphen"/>nifying Place, Time or Cauſe, either poſitively or privatively, tacks on the <hi>Noun</hi> to the <hi>Verb,</hi> or to another word governing it.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Define a</hi> Conjunction.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>A <hi>Conjunction</hi> is a word, which tacks on one Sentence to another.</p>
+               <pb n="5" facs="tcp:107822:18"/>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Define an</hi> Interjection.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>An <hi>Interjection</hi> is a virtual Sen<g ref="char:EOLhyphen"/>tence, where the <hi>Noun</hi> and the <hi>Verb</hi> are contracted into an undigeſted word, which word betokeneth ſome motion or affection of the mind.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What learn you in that part of</hi> Nomen, <hi>commonly called</hi> Quâ mas exprimitur?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>In that part of <hi>Nomen</hi> common<g ref="char:EOLhyphen"/>ly call'd, <hi>Quâ mas exprimitur,</hi> I learn Rules for the Genders of <hi>Nouns.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What is</hi> Gender?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Gender</hi> in a ſtrict ſenſe is nothing elſe, but the diſtinction of Sex; there<g ref="char:EOLhyphen"/>fore in Nature there can be but two Genders, the <hi>Maſculine</hi> and the <hi>Fe<g ref="char:EOLhyphen"/>minine;</hi> and the ancient Oriental Tongues, <hi>viz.</hi> The <hi>Hebrew, Caldee, Samaritan, Syriac, Punic, Arabic, Per<g ref="char:EOLhyphen"/>ſian, Aethiopic, Armenian, Coptic</hi> or <hi>Aegyptian;</hi> as alſo the modern Occi<g ref="char:EOLhyphen"/>dental, <hi>ſcil.</hi> The <hi>French, Italian, Spa<g ref="char:EOLhyphen"/>niſh,</hi> and many others acknowledge no more.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>How came in the</hi> Neuter Gen<g ref="char:EOLhyphen"/>der?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>It was introduced by the <hi>Greeks</hi> and <hi>Latins</hi> with very good reaſon,
+<pb n="6" facs="tcp:107822:19"/>both for variety and better diſtinction of words.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Is the</hi> Neuter <hi>then a new Gender?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>No: It is not properly a new Gender, but a negation of the other two.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>To what words doth the</hi> Neuter Gender <hi>naturally agree?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>By nature it agrees to all words, whoſe ſignification includes not a di<g ref="char:EOLhyphen"/>ſtinction of Sex.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Why then are not</hi> Menſa, Liber, Lapis, Manus, Dies, &amp;c. <hi>Neuters?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The <hi>Greeks</hi> (and, in imitation of them, the <hi>Latins</hi>) attending to the Termination rather than the Signifi<g ref="char:EOLhyphen"/>cation, reſerved to themſelves a li<g ref="char:EOLhyphen"/>berty of uſing many words, that were really <hi>Neuters,</hi> that is of no Sex, after the manner of <hi>Maſculines</hi> and <hi>Femi<g ref="char:EOLhyphen"/>nines,</hi> and others after the manner of both.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What therefore is</hi> Gender <hi>in a larger acceptation of the word?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Gender,</hi> taken Grammatically, not Phyſically, is the difference of a <hi>Noun</hi> according to the mark of Sex: Thus Maſculines have <hi>hic,</hi> Feminines
+<pb n="7" facs="tcp:107822:19"/>
+                  <hi>haec,</hi> Neuters <hi>hoc,</hi> Commons <hi>hic</hi> and <hi>haec</hi> for their marks.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Why, how many Grammatical</hi> Genders <hi>are there?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>In Grammar there are four Gen<g ref="char:EOLhyphen"/>ders, <hi>Maſculine, Feminine, Neuter,</hi> (i.e. neither <hi>Maſculine</hi> nor <hi>Feminine,) Com<g ref="char:EOLhyphen"/>mon,</hi> i. e. either <hi>Maſculine</hi> or <hi>Femi<g ref="char:EOLhyphen"/>nine.</hi> As for the <hi>Common of Three,</hi> the <hi>Doubtful</hi> and the <hi>Epicene,</hi> they have been introduced without neceſſity.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What Reaſons have you, whereupon to ground your Opi<g ref="char:EOLhyphen"/>nion?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>My Reaſons are theſe;</p>
+               <p n="1">1. <hi>Adjectives,</hi> which are ſaid to be of the <hi>Common of Three,</hi> are properly of no Gender, only they have a power of being joyned in Conſtruction with <hi>Subſtantives</hi> of all Genders.</p>
+               <p n="2">2. That which is called <hi>Doubtful</hi> is eſpecially of the <hi>Common</hi> Gender, as being uſed indifferently in the <hi>Maſcu<g ref="char:EOLhyphen"/>line</hi> or <hi>Feminine,</hi> though accidentally diſtinguiſhed from that which is uſually called <hi>Common,</hi> and, is not uſed indiffe<g ref="char:EOLhyphen"/>rently in both Genders, but with reſpect to the ſignification.</p>
+               <pb n="8" facs="tcp:107822:20"/>
+               <p n="3">3. That which is called the <hi>Epicene</hi> Gender, is either <hi>Maſculine</hi> or <hi>Femi<g ref="char:EOLhyphen"/>nine</hi> according to its Termination, and is to be looked upon by the Gramma<g ref="char:EOLhyphen"/>rians as having no Sex.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Is the</hi> Epicene <hi>Gender al<g ref="char:EOLhyphen"/>ways declined with one Article only?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>No: There are two ſorts of <hi>E<g ref="char:EOLhyphen"/>picenes;</hi> ſome have but one note of Gender: as, <hi>haec Turtur.</hi> Others have two: as, <hi>hic vel haec Limax.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How are thoſe, which have two Articles, diſtinguiſhed from</hi> Com<g ref="char:EOLhyphen"/>mons?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The <hi>Epicenes</hi> under each Article ſignifie both kinds; ſo do not the <hi>Com<g ref="char:EOLhyphen"/>mons:</hi> as, <hi>hic Limax</hi> ſignifies both Male and Female, and ſo <hi>haec Limax;</hi> but neither <hi>hic Parens</hi> nor <hi>haec Parens</hi> doth ſignifie both <hi>Father</hi> and <hi>Mother.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How are the Genders of</hi> Nouns <hi>known?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>By their ſignification, or by the termination of the Nominative Caſe.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which of theſe Rules teach you the Genders of</hi> Nouns <hi>by their ſignification?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The general Rules.</p>
+               <pb n="9" facs="tcp:107822:20"/>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which of theſe Rules teach you the Genders of</hi> Nouns <hi>by the termination of the Nominative Caſe?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The ſpecial Rules.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How many are the general Rules?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The ſeven Firſt, beſide the ſuper<g ref="char:EOLhyphen"/>numerary.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How many are the ſpecial Rules?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The Seventeen next; as for the laſt Rule, it concerneth both kinds of words of the <hi>Epicene</hi> Gender, exce<g ref="char:EOLhyphen"/>pted from the Rules of Termination.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What learn you in that irre<g ref="char:EOLhyphen"/>gular part of</hi> Nomen <hi>called</hi> Ano<g ref="char:EOLhyphen"/>malia?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>In that irregular part of <hi>Nomen</hi> called <hi>Anomalia,</hi> I learn Rules for <hi>De<g ref="char:EOLhyphen"/>fectives</hi> either in Caſe or in Number.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How many ſorts of</hi> Defectives <hi>in Caſe are there?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>There are three ſorts of <hi>Defectives</hi> in Caſe.</p>
+            </sp>
+            <sp>
+               <speaker>A</speaker>
+               <p>
+                  <hi>Which be they?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>1 Some are defective in their Caſes of Termination: as, <hi>Cornu, Gum<g ref="char:EOLhyphen"/>mi, Neë, &amp;c.</hi>
+               </p>
+               <pb n="10" facs="tcp:107822:21"/>
+               <p n="2">2. Others are defective in their Caſes of Signification: as, <hi>Exſpes, Spontis, Opis, Ditionis, Vis, &amp;c.</hi>
+               </p>
+               <p n="3">3. A third ſort are defective in Caſes both of Termination and Significa<g ref="char:EOLhyphen"/>tion: as <hi>Fas, Nefac, Aſtu</hi> [the City,] <hi>Inſtar, Tempe, &amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How are</hi> Defectives <hi>in Num<g ref="char:EOLhyphen"/>ber divided?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>There are two ſorts of <hi>Defectives</hi> in Number.</p>
+               <p n="1">1. Some <hi>Nouns</hi> want the Singular: as, <hi>Cancelli, Tenebrae, Scruta.</hi>
+               </p>
+               <p n="2">2. Others want the Plural: as, <hi>Roma, Meridies, Pituita, Nitrum.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Why do you not with</hi> Robinſon <hi>here inſert</hi> Variants <hi>and</hi> Redundants, <hi>as being</hi> Anomalous Nouns?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I chooſe rather herein to follow <hi>Sanctius</hi>
+                  <note n="(a)" place="margin">
+                     <hi>Miner<g ref="char:EOLhyphen"/>vae,</hi> lib. 1. cap. 9.</note>;</p>
+               <p n="1">1. Denying that there are any ſuch <hi>Nouns,</hi> as <hi>Heteroclits</hi> (properly and peculiarly ſo called) and Heterogene<g ref="char:EOLhyphen"/>ous in <hi>Nominum naturâ.</hi>
+               </p>
+               <p n="2">2. Affirming, that (the advantages to be reaped from the knowledge of <hi>Redundants</hi> being very inconſiderable; and the riſque that Boys run for want of a right underſtanding thereof, either
+<pb n="11" facs="tcp:107822:21"/>in reading or writing Latin, being none at all) tender Wits ought not to be re<g ref="char:EOLhyphen"/>tarded in their Voyage to <hi>Latium</hi> by ſuch inſignificant Tarriers, as are the later; nor Freſh-water-Souldiers af<g ref="char:EOLhyphen"/>frighted from the conqueſt of that pleſant Land, by hearing of ſuch mon<g ref="char:EOLhyphen"/>ſtrous Inhabitants, <hi>Centaurs</hi> and <hi>Her<g ref="char:EOLhyphen"/>maphrodites,</hi> as are the former.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What learn you in that part of</hi> Verbum, <hi>commonly called</hi> Verba primae Conjugationis?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>In that part of <hi>Verbum</hi> commonly call'd <hi>Verba prima Conjugationis,</hi> I learn to form the <hi>Preterperfect Tenſes</hi> and <hi>Su<g ref="char:EOLhyphen"/>pines</hi> of Verbs Regular and Irregular, of Verbs in <hi>O</hi> and Verbs in <hi>Or,</hi> of Verbs Simple and Verbs Compound, in the order of the four Conjugations.</p>
+               <p>In the Cloſe I learn to Conjugate,</p>
+               <p n="1">1. Some Verbs, whoſe <hi>Preſent Tenſes</hi> are the ſame, and yet in divers ſignifi<g ref="char:EOLhyphen"/>cations are of divers Conjugations: ſuch are <hi>Aggero, appello, colligo, affero, mando, obſero, volo, &amp;c.</hi>
+               </p>
+               <p n="2">2. Others, that differ in ſignification and quantity, and accordingly are of divers Conjugations: as, <hi>Di<g ref="char:cmbAbbrStroke">̄</g>co</hi> to Dedicate, <hi>Di<g ref="char:cmbAbbrStroke">̄</g>co</hi> to Speak, <hi>Le<g ref="char:cmbAbbrStroke">̄</g>go</hi> to ſend
+<pb n="12" facs="tcp:107822:22"/>Embaſſadour, <hi>Le<g ref="char:cmbAbbrStroke">̄</g>go</hi> to Read, &amp;c.</p>
+               <p n="3">3. Some again that are of the ſame ſignification, and yet differ in Conjuga<g ref="char:EOLhyphen"/>tion: as, <hi>Lavo</hi> to Waſh, <hi>Morior</hi> to Die, <hi>Sono</hi> to Sound, &amp;c.</p>
+               <p n="4">4. Verbs, that have the ſame <hi>Preter<g ref="char:EOLhyphen"/>perfect Tenſes:</hi> as, <hi>Conſto</hi> and <hi>Conſiſto, Aceo</hi> and <hi>acuo, Creſco</hi> and <hi>cerno, Fulgeo</hi> and <hi>fulcio, &amp;c.</hi>
+               </p>
+               <p n="5">5. Verbs, that have the ſame <hi>Supines:</hi> as, <hi>Maneo</hi> and <hi>mando, Teneo</hi> and <hi>tendo, Pando</hi> and <hi>Patior, &amp;c.</hi>
+               </p>
+               <p>And thus much of <hi>Etymologia</hi> or <hi>Ana<g ref="char:EOLhyphen"/>logia,</hi> proceed we now to the ſimple and regular <hi>Syntax.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What mean you by ſimple and regular</hi> Syntax?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I mean that Conſtruction, which follows the uſual way of ſpeaking, and is conformable to the Rules of Gram<g ref="char:EOLhyphen"/>mar.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How is the regular</hi> Syntax <hi>di<g ref="char:EOLhyphen"/>vided?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>It is divided into two parts; <hi>Concord</hi> or <hi>Agreement, Regimen</hi> or <hi>Go<g ref="char:EOLhyphen"/>vernment.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How many</hi> Concords <hi>are there?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The Proper <hi>Concords</hi> are but two: The Improper, three.</p>
+               <pb n="13" facs="tcp:107822:22"/>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which is the firſt Proper</hi> Concord?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The Nominative Caſe agreeth with its Verb in Number only; but hath a capacity of being accommo<g ref="char:EOLhyphen"/>dated to the Perſon of its Verb: as, <hi>Labor omnia vincit.</hi> Virg. 1. Georg.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which is the ſecond Proper</hi> Concord?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The <hi>Adjective,</hi> whether Abſolute or Relative, agreeth with its <hi>Subſtan<g ref="char:EOLhyphen"/>tive</hi> in Number, Caſe, and termination of Gender: as, <hi>Rara avis in terris, ni<g ref="char:EOLhyphen"/>groque ſimillima Cygno.</hi> Juven. Sat. 6.</p>
+               <q>
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>ltra eum locum, quo in loco</hi> Germani <hi>con<g ref="char:EOLhyphen"/>ſederant.</hi> Caeſ.</l>
+                  <l>
+                     <hi>Neglectis urenda filix innaſcitur agris.</hi>
+                  </l>
+                  <bibl>Hor. l. 1.3. Sat.</bibl>
+               </q>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which is the firſt Improper</hi> Concord?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The firſt Improper <hi>Concord</hi> is, when <hi>Prepoſitions</hi> ſo agree with other <hi>Prepoſitions, Adverbs, Conjunctions, Verbs,</hi> and <hi>Nouns,</hi> that they become one in<g ref="char:EOLhyphen"/>tire word: as, <hi>Deſuper, Inante, Circum<g ref="char:EOLhyphen"/>ſecus. Abhinc, Deinde, Deſubite. Poſtquam, Praeterquam, Praequam. Adamo, Pronuntio, Intono. Impius, Veſanus, Seditio.</hi>
+               </p>
+               <pb n="14" facs="tcp:107822:23"/>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which is the ſecond Improper</hi> Concord?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The ſecond Improper <hi>Concord</hi> is, when the <hi>Adverb</hi> agrees with, or is joyned to, a <hi>Verb</hi> of ſuch or ſuch a Mood.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which are the</hi> Adverbs, <hi>that are joyned to an</hi> Indicative Mood?</p>
+               <p>
+                  <hi>B. Dum,</hi> ſo long as, whilſt. <hi>Donec,</hi> ſo long as. <hi>
+                     <g ref="char:V">Ʋ</g>t,</hi> after that. So are <hi>Quaſi, ceu, tanquam, perinde, acſi, haud-ſecus-acſi,</hi> when they ſignifie [Even as.]</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What</hi> Adverbs <hi>agree with the</hi> Subjunctive Mood?</p>
+               <p>
+                  <hi>B. Dum,</hi> ſo that. <hi>Quaſi, ceu, tanquam, perinde-acſi, haud-ſecus-acſi,</hi> ſignifying [as if, as though.]</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What</hi> Adverbs <hi>are joyned to both theſe Moods?</hi>
+               </p>
+               <p>
+                  <hi>B. <g ref="char:V">Ʋ</g>bi,</hi> where. <hi>Poſtquam, Poſteaquant,</hi> after that. <hi>Cum,</hi> when. <hi>Donec,</hi> until, or till that. <hi>Quoad,</hi> how long, or as long as. <hi>Simulac, ſimulatque,</hi> and <hi>ſimul<g ref="char:EOLhyphen"/>ut,</hi> as ſoon as. <hi>Quemadmodum,</hi> even as. <hi>
+                     <g ref="char:V">Ʋ</g>t,</hi> as. <hi>
+                     <g ref="char:V">Ʋ</g>tcunque,</hi> however. <hi>Sicut,</hi> as. <hi>Simul</hi> for <hi>ſimulac,</hi> as ſoon as. <hi>Antequam, Priuſquam,</hi> before that. <hi>Jamdudum,</hi> long ago. <hi>Jampridem,</hi> ſome while ſince. <hi>Jamolim,</hi> formerly. (But if the action
+<pb n="15" facs="tcp:107822:23"/>does yet continue, theſe three laſt more uſually agree with the <hi>Preſent Tenſe</hi> of the <hi>Indicative Mood,) Dum,</hi> until. <hi>Quam</hi> for <hi>Poſtquam,</hi> after that. <hi>Pridie, postridie, poſtero die, &amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Doth any</hi> Adverb <hi>agree with an</hi> Imperative Mood?</p>
+               <p>
+                  <hi>B. Ne,</hi> not an Adverb of forbidding agrees only with an <hi>Imperative Mood,</hi> or a <hi>Subjunctive</hi> Future Tenſe: as, <hi>Ne nega. Tune cede malis. Iſtuc ne dixeris;</hi> for <hi>Non dixeris,</hi> is a Soleciſm. And yet, <hi>Non,</hi> an Adverb of forbidding or diſſwading agrees only with the Future Tenſe <hi>Indicative:</hi> as, <hi>Non negabis, non dices;</hi> for <hi>Non nega, non dic</hi> are Sole<g ref="char:EOLhyphen"/>ciſms.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Toth any</hi> Adverb <hi>agree with an</hi> Indicative <hi>and</hi> Imperative?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Yes. <hi>Quin,</hi> an Adverb of Com<g ref="char:EOLhyphen"/>manding or Exhorting: as, <hi>Quin dic, quid est.</hi> Ter. And. act. 2. ſc. 6. <hi>Quin huc ad vos venire propero?</hi> Cic. in ſomn. Scipion.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What</hi> Adverbs <hi>agree with the</hi> Optative <hi>and</hi> Potential Moods?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>There are no <hi>Optative</hi> or <hi>Poten<g ref="char:EOLhyphen"/>tial Moods,</hi> in Latin, diſtinct from the <hi>Subjunctive.</hi>
+               </p>
+               <pb n="16" facs="tcp:107822:24"/>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What then mean the terms? And upon what occaſion were they inſerted in our Grammar?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>As for the <hi>Optative,</hi> I need ſay no more, than what our Maſter has fre<g ref="char:EOLhyphen"/>quently obſerved to us: <hi>viz. Opto</hi> is Latin for <hi>I wiſh;</hi> but becauſe <hi>Opto</hi> is wont to be omitted before the Con<g ref="char:EOLhyphen"/>junctions <hi>
+                     <g ref="char:V">Ʋ</g>t, uti</hi> and <hi>utinam</hi> (which are all one.) And becauſe that (the Engliſh of <hi>
+                     <g ref="char:V">Ʋ</g>tinam</hi>) is wont to be omitted af<g ref="char:EOLhyphen"/>ter <hi>I wiſh,</hi> hence it comes to paſs, that <hi>
+                     <g ref="char:V">Ʋ</g>tinam</hi> has gained the Engliſh of <hi>Opto,</hi> and the <hi>Subjunctive Mood,</hi> (wherewith it is alway joyn'd) the name of <hi>Op<g ref="char:EOLhyphen"/>tative.</hi>
+               </p>
+               <p>The <hi>Potential Mood</hi> is ſo called from <hi>Potentia,</hi> Power; for when the Con<g ref="char:EOLhyphen"/>junction is underſtood, and ſome other Verb that ſignifies <hi>Power, will,</hi> or <hi>duty,</hi> (which make the Verbs be the <hi>Sub<g ref="char:EOLhyphen"/>junctive Mood,</hi> as if they were expreſt) it is then (inſtead of <hi>Subjunctive</hi>) called the <hi>Potential Mood:</hi> as, <hi>Exſpe<g ref="char:EOLhyphen"/>ctes,</hi> yon may expect, <hi>i. e. Licet ut ex<g ref="char:EOLhyphen"/>ſpectes eadem, &amp;c.</hi>
+               </p>
+               <pb n="17" facs="tcp:107822:24"/>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which is the third improper Concord?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The third improper Concord is, when a <hi>Conjunction</hi> is joyned to, or a<g ref="char:EOLhyphen"/>grees with a Verb of ſuch or ſuch a Mood.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What</hi> Conjunctions <hi>agree with an</hi> Indicative Mood?</p>
+               <p>
+                  <hi>B. Tametſi;</hi> although in the front of a Sentence. <hi>Quod</hi>
+                  <note n="(a)" place="margin">So do all efficient or impul<g ref="char:EOLhyphen"/>ſive Cau<g ref="char:EOLhyphen"/>ſals.</note> whereas, as to what, as concerning that. <hi>Quippe,</hi> ſurely, for as much as. <hi>Quando, quan<g ref="char:EOLhyphen"/>doquidem,</hi> for as much as. <hi>Cum</hi> for <hi>quod. <g ref="char:V">Ʋ</g>t,</hi> as, ſuch, ſince that.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which are the</hi> Conjunctions, <hi>that are joyned to a</hi> Subjunctive Mood?</p>
+               <p>
+                  <hi>B. Tametſi;</hi> though in the body of a Sentence. <hi>
+                     <g ref="char:V">Ʋ</g>t,</hi> although. The final Cauſals, <hi>ut, qui,</hi> to the end or intent that. <hi>
+                     <g ref="char:V">Ʋ</g>t</hi> with <hi>ne,</hi> for <hi>non</hi> following it. <hi>Licet,</hi> though, (which the Lawyers
+<note n="(b)" place="margin">Ulpian. L. <hi>Cum hi.</hi> 8. §. ult. D. De tranf<g ref="char:EOLhyphen"/>act. Modeſt. L. 20. D. De accuſat. Julianus L. <hi>Si ei.</hi> 11. §. 11. De jur. codicill.</note> joyn to an <hi>Indicative</hi>) the Perfe<g ref="char:EOLhyphen"/>ctives, <hi>ut, uti, utinam,</hi> that. <hi>Ne,</hi> leaſt. <hi>Qui</hi> for <hi>quia. Quin</hi> for <hi>ut, non,</hi> But or nay. <hi>Quo, dummodo. <g ref="char:V">Ʋ</g>t</hi> for <hi>ne, non,</hi> after Verbs importing Fear. <hi>Si,</hi> al<g ref="char:EOLhyphen"/>though.
+<pb n="18" facs="tcp:107822:25"/>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>tpote cum, Quippe cum. <g ref="char:V">Ʋ</g>t</hi> for <hi>utpote.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which</hi> Conjunctions <hi>do agree with both an</hi> Indicative <hi>and</hi> Subjun<g ref="char:EOLhyphen"/>ctive?</p>
+               <p>
+                  <hi>B. Sin, ſiquidem, niſi, ſi,</hi> if (which three laſt are joyned to a <hi>Subjunctive</hi> in the former part of a Sentence, as often as a <hi>Subjunctive</hi> follows in the latter. <hi>Quod,</hi> that, becauſe, wherefore. <hi>Quia. Quoniam. Quippe qui, ut qui, ut<g ref="char:EOLhyphen"/>pote qui.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Are not ſome</hi> Conjunctions <hi>more often joyned to one of theſe Moods, than they are to the o<g ref="char:EOLhyphen"/>ther?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Yes. <hi>Quanquam</hi> and <hi>erſi,</hi> although, do frequently agree with an <hi>Indicative,</hi> and ſometimes with a <hi>Subjunctive: Quamvis etiamſi,</hi> though. <hi>Cum</hi> for <hi>quandoquidem</hi> or <hi>quoniam,</hi> are uſually joyned to a <hi>Subjunctive,</hi> though now and then to an <hi>Indicative.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Do any</hi> Conjunctions <hi>agree with an</hi> Infinitive Mood?</p>
+               <p>
+                  <hi>B. <g ref="char:V">Ʋ</g>t</hi> the Cauſal, in imitation of the <hi>Greeks,</hi> agrees with an <hi>Infinitive Mood:</hi> as, <hi>Neu</hi> Babylonios <hi>tentâris numeros, ut melius quicquid erit pati.
+<pb n="19" facs="tcp:107822:25"/>Hor.</hi> l. 1. Od. 11. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. So <hi>ſcilicet</hi> and <hi>videlicet,</hi> as amounting to <hi>ſcire</hi> or <hi>ſcias licet, videre</hi> or <hi>videas licet:</hi> as, <hi>Videlicet illum fuiſſe parcum ſenem.</hi> Plaut. Sticho. Act. iv. ſc. 1. <hi>Eſſe videlicet in terris primordia rerum.</hi> Lucret. lib. 1. <hi>Scilicet eſſe globoſa, tamen cum ſqualida conſtent.</hi> Lib. 2. Conſult <hi>Scioppius</hi>'s <hi>Veriſimilia.</hi> lib. 1. cap. 16.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Is this agreement, with the</hi> Moods <hi>of</hi> Verbs, <hi>the peculiar Pri<g ref="char:EOLhyphen"/>viledge of</hi> Adverbs <hi>and</hi> Conjuncti<g ref="char:EOLhyphen"/>ons? <hi>For I have obſerv'd in</hi> Te<g ref="char:EOLhyphen"/>rence <hi>and</hi> Plautus, &amp;c. <hi>that there is, not only in theſe</hi> Particles, <hi>but in ſome</hi> Adjectives, <hi>a kind of propen<g ref="char:EOLhyphen"/>ſity or natural inclination to one Mood more than to another.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Interrogative Particles, be they <hi>Adnouns, Adverbs,</hi> or <hi>Conjunctions,</hi> keep cloſe to an <hi>Indicative Mood:</hi> ſuch are, <hi>Quis, quantus, quantopere, qualis, uter, quam, quemadmodum, cur, quare, quamobrem, num, numquid, quorſum, ubi, quo, unde, ne, an, utrum, ut? &amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What Mood doth theſe and ſuch like</hi> Particles <hi>agree with, when they are uſed indefinitely?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>When they are not <hi>Interrogatives,</hi>
+                  <pb n="20" facs="tcp:107822:26"/>but in the natural order immediately follow ſome <hi>Verb,</hi> or at leaſt a <hi>Verb</hi> and <hi>Noun</hi> uſed periphraſtically for a <hi>Verb,</hi> then they love a <hi>Subjunctive Mood.</hi> So does <hi>Qui, quae, quod,</hi> who, what, not being a Relative: as, <hi>Qui ſis, conſidera. Vide, quod nobis impendeat pe<g ref="char:EOLhyphen"/>riculum.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Is this Rule of</hi> Indefinites <hi>ſo univerſally true, that it admits of no Exceptions?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>It is not: for ſometimes it is o<g ref="char:EOLhyphen"/>therwiſe,</p>
+               <p n="1">1. In <hi>Quis, Quid.</hi>
+               </p>
+               <p>When <hi>Quis</hi> is taken for <hi>Aliquis,</hi> for then it is joyned to both Moods: as, <hi>Si quis quid reddit, magna habenda eſt gratia.</hi> Ter. <hi>At vero gravitate membro<g ref="char:EOLhyphen"/>rum &amp; cruciatu dolorum, ſi quis quem le<g ref="char:EOLhyphen"/>vet, Magnam ineat gratiam.</hi> Cic. de fin. l. 9.</p>
+               <p>Nay, even in its genuine ſignification, it is joyn'd to an <hi>Indicative</hi> by two of the beſt Authors in the Latin Tongue, <hi>Plautus</hi> and <hi>Cicero. Plaut. Bacch.</hi> act. 1. fc. 1. <hi>Scio quid ago. P. &amp; pol ego ſcio quid metuo.</hi> Aulularia act. 2. ſc. 1. <hi>Verba ne facias, ſoror. Scio quid dictura es, hanc eſſe pauperem; hac pauper placet.</hi>
+                  <pb n="21" facs="tcp:107822:26"/>Aulul. act. 1. ſc. 2. <hi>Nimis hercle invitus abeo, ſed quid agam ſcio.</hi> Mil. act. 1. ſc. 1. <hi>Scio jam quid vis dicere.</hi> Cic. lib. 9. ad Attic. epiſt. xii. <hi>Quaeſo ſcribas, quid nobis faciendum, aut non faciendum, putas.</hi> Lib. xiii. epiſt. cxviii. <hi>Vides, pro<g ref="char:EOLhyphen"/>pinquitas quid habet.</hi> Lib. xiv. epiſt. xiii. <hi>Quid nobis faciendum eſt ignoro.</hi> By <hi>Terence,</hi> Phorm. act. 2. ſc. 3. <hi>Quia egens relicta eſt miſera, ignoratur parens, negli<g ref="char:EOLhyphen"/>gitur ipſa. Avaritia vide quid facit.</hi> And Lucan. <hi>Quis juſtiùs induit arma, ſcire nefas.</hi> Lib. 1.</p>
+               <p n="2">2. In <hi>Quantus, —ta,—tum.</hi>
+               </p>
+               <p>When <hi>tantus</hi> or <hi>tantum</hi> goes before: as, <hi>Videor mihi videre tantam dimicatio<g ref="char:EOLhyphen"/>nem, quanta nunquam fuit.</hi> So although <hi>tantum</hi> be ellipted: as, <hi>Quantum eſt ſi<g ref="char:EOLhyphen"/>tum in nobis.</hi> Cic. pro Arch.</p>
+               <p n="3">3. In <hi>
+                     <g ref="char:V">Ʋ</g>bi.</hi>
+               </p>
+               <p>As in that of <hi>Plautus</hi>'s <hi>Aulularia,</hi> act 1. ſc. 1. <hi>Neu perſentiſcat, aurum ubi eſt abſconditum.</hi> Alſo when 'tis not imme<g ref="char:EOLhyphen"/>diately uſed after a <hi>Verb,</hi> but referr'd to ſome <hi>Noun</hi> or <hi>Verb</hi> preceding: as, <hi>Porticus haec ipſa, ubi ambulamus.</hi>
+               </p>
+               <p n="4">4. In <hi>Quò.</hi>
+               </p>
+               <p>When <hi>eò</hi> or <hi>ubi</hi> goes before: as, <hi>Ve<g ref="char:EOLhyphen"/>nio nunc eò, quò me non cupiditas ducit, ſed fides.</hi>
+               </p>
+               <pb n="22" facs="tcp:107822:27"/>
+               <p n="5">5. In <hi>
+                     <g ref="char:V">Ʋ</g>nde.</hi>
+               </p>
+               <p>When it is not uſed juſt after a <hi>Verb,</hi> but relates to ſome one gone be<g ref="char:EOLhyphen"/>fore: as, <hi>Omni huic ſermoni propoſitum eſt, non ut ingenium &amp; eloquentiam meam perſpicias, unde longè abſum, ſed ut laborem &amp; induſtriam.</hi>
+               </p>
+               <p n="6">6. In <hi>Num.</hi>
+               </p>
+               <p>As, <hi>Vide, num quiſpiam conſequitur prope nos.</hi> Plaut. Rudent. act. 4. ſc. 3.</p>
+               <p n="7">7. In <hi>
+                     <g ref="char:V">Ʋ</g>t.</hi>
+               </p>
+               <p>As, <hi>Eloquere, ut haec res obtigit de filiâ.</hi> Rud act. 4. ſc. 6.</p>
+               <p n="8">8. In <hi>Quam.</hi>
+               </p>
+               <p>As, <hi>Vides, quam turpe eſt.</hi> Cic. ad Attic. Lib. x. epiſt. x.</p>
+               <p n="9">9. In <hi>Qui, quae, quod.</hi>
+               </p>
+               <p>When <hi>qui</hi> is put for <hi>talis:</hi> as, <hi>Spero, quae tua eſt prudentia &amp; temperantia, te ut volumus valere.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>But hold. You have, I doubt, (ere you was aware) run your ſelf into a ridiculous abſurdity: For in making theſe</hi> Particles <hi>of <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> with ſuch and ſuch Moods <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> from the Doctrine of the Gramma<g ref="char:EOLhyphen"/>rians, who allow <hi>Verbs</hi> no Moods at all; nay, <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>,</hi>
+               </p>
+               <p>
+                  <hi>Qui ſin<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, in<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dóque ca<g ref="char:EOLhyphen"/>rebans.</hi>
+               </p>
+               <pb n="23" facs="tcp:107822:27"/>
+               <p>
+                  <hi>B. Sanctius</hi> indeed, and after him <hi>Scioppius,</hi> have laid aſide all Moods of <hi>Verbs;</hi> and have made other diſtinctions of Tenſes (equivalent in this reſpect to thoſe of Moods) dividing them into <hi>Prima</hi> and <hi>Se<g ref="char:EOLhyphen"/>cunda:</hi> For inſtance, They call <hi>Amo, praeſens primum,</hi> and <hi>amem, praeſens ſecun<g ref="char:EOLhyphen"/>dum; amabam, imperfectum primum,</hi> and <hi>amarem, imperfectum ſecundum, &amp;c.</hi> And for the Future Tenſe, they make it threefold, for the Imperative paſſes for a third Future. And this they do not without ſome reaſon, becauſe the Tenſes of the <hi>Subjunctive</hi> and the <hi>Indi<g ref="char:EOLhyphen"/>cative</hi> are uſed indifferently the one for the other, and that by the pureſt Au<g ref="char:EOLhyphen"/>thors, as may appear by the following Examples: <hi>Si eſt bellum civile, quid no<g ref="char:EOLhyphen"/>bis faciendum ſit, ignoro.</hi> Cic. for <hi>ſi fie. Athoritas tanta planè movebat, niſi tu oppoſuiſſes non minorem tuam.</hi> Cic. for <hi>moveret. Abi atque illa ſi jam laverit, mihi renuntia.</hi> Ter. for <hi>lavit. Quem enim receptum in gratiam ſummo studio defenderim, hunc afflictum violare non debeo.</hi> Cic. for <hi>defendi. Qui fuiſſet e<g ref="char:EOLhyphen"/>gentiſſimus in re ſuâ, &amp; inſolens in alienâ,</hi> Idem, for <hi>fuerat. Te rogo, ut advoles,
+<pb n="24" facs="tcp:107822:28"/>reſpiraro, ſi te videro.</hi> Id. for <hi>reſpirabo. Scaevola quotidie ſimulatque luceret, faci<g ref="char:EOLhyphen"/>ebat omnibus ſuis conveniendi poteſtatem.</hi> Id. for <hi>lucebat. Num</hi> P. Decius, <hi>cumſe devoveret, &amp;, equo amiſſo, in mediam aciem irruebat, aliquid de voluptate cogi<g ref="char:EOLhyphen"/>tabat.</hi> Id. for <hi>eruerit, &amp;c.</hi> But ſince this way is not more expedite than the o<g ref="char:EOLhyphen"/>ther, 'tis better not to depart from the received Method.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How many Governments are there?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The proper Governments are three, the Improper two.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which Caſes are properly governed?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The <hi>Genitive, Accuſative,</hi> and <hi>Ablative.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which Caſes are improperly governed?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The <hi>Nominative</hi> and <hi>Dative.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How many of the Eight parts of Speech do really and properly govern Caſes?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>But four. <hi>Viz. Noun Subſtantive, Adjective, Verb, Par<g ref="char:EOLhyphen"/>ticiple, Prepoſition.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How many Caſes doth the</hi> Noun Subſtantive <hi>govern?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The <hi>Genitive</hi> only.</p>
+               <pb n="25" facs="tcp:107822:28"/>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How many the</hi> Adjective <hi>or</hi> Adnoun?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The <hi>Dative</hi> only.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How many Caſes does the</hi> Verb <hi>govern?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Three; the <hi>Nominative,</hi> the <hi>Dative,</hi> the <hi>Accuſative.</hi> So doth the <hi>Participle.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How many the</hi> Prepoſition?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Two: Twenty eight <hi>Prepoſiti<g ref="char:EOLhyphen"/>ons</hi> ſerve to an <hi>Accuſative,</hi> Fourteen to an <hi>Ablative,</hi> and Five to both.</p>
+               <p>
+                  <hi>A.</hi> Cicero <hi>ſaid,</hi> Traditio alteri. <hi>Caeſar,</hi> Domum reditionis ſpe ſublatâ. <hi>May,</hi> Plautus <hi>dotes on ſuch expreſ<g ref="char:EOLhyphen"/>ſions; as,</hi> Hanc additio, &amp; notio &amp; tactio nos. <hi>We read alſo in Au<g ref="char:EOLhyphen"/>thors, who wrote in the Manhood of the Golden Age,</hi> i.e. <hi>Betwixt the end of the ſecond</hi> Punic <hi>War and the declining of</hi> Auguſtus<hi>'s Reign, I ſay, we read in ſuch Claſſick Writers;</hi> Populabundus a<g ref="char:EOLhyphen"/>gros, vitabundus caſtra hoſtium, &amp;c. <hi>How then ſay you, that</hi> Nouns <hi>go<g ref="char:EOLhyphen"/>vern only the</hi> Genitive, <hi>and</hi> Adnouns <hi>the</hi> Dative Caſe?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>To this I anſwer, By diſtin<g ref="char:EOLhyphen"/>guiſhing between ſuch <hi>Nouns</hi> or <hi>Ad<g ref="char:EOLhyphen"/>nouns</hi> as deſcend from <hi>Verbs,</hi> and ſuch
+<pb n="26" facs="tcp:107822:29"/>as do not: the former are ſtiled <hi>Ver<g ref="char:EOLhyphen"/>bals,</hi> and they ſometimes require the Caſe of their <hi>Verbs,</hi> of which they are deſcended; the reſt do ſtrictly obſerve the Rules.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Upon what depends the</hi> No<g ref="char:EOLhyphen"/>minative Caſe?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The <hi>Nominative Caſe</hi> always ei<g ref="char:EOLhyphen"/>ther comes before a <hi>Verb,</hi> or elſe be<g ref="char:EOLhyphen"/>longs to another <hi>Nominative Caſe,</hi> that doth: as, <hi>Ira furor brevis eſt.</hi> Hor. 1. Ep. 2. Cato <hi>ſcribit invitus.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Upon what depends the</hi> Ge<g ref="char:EOLhyphen"/>nitive Caſe?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The <hi>Genitive</hi> is always (in a Latin Conſtruction) the later of two <hi>Subſtantives:</hi> as, <hi>Gloria eſt umbra Virtu<g ref="char:EOLhyphen"/>tis.</hi> Sen. Ep. 80. <hi>Dos eſt magna paren<g ref="char:EOLhyphen"/>tium virtus.</hi> Hor. lib. 3. Od. 24.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Upon what depends the</hi> Da<g ref="char:EOLhyphen"/>tive Caſe?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The <hi>Dative Caſe</hi> is always put acquiſitively, to, or for, the Uſe, be<g ref="char:EOLhyphen"/>nefit, or damage of ſome Perſon or Thing: as, <hi>Nec pecori opportuna ſeges nec commoda</hi> Baccho. <hi>Virg.</hi> 4. Georg. <hi>Non omnibus dormio.</hi> Cic. 7. Ep. 25. ad ſam. <hi>Mihi peccat, ſiquid peccat.</hi> Adel. act. 1. ſc. 2. <hi>Et lac ſubducitur agnis.</hi> Virg.
+<pb n="27" facs="tcp:107822:29"/>
+                  <hi>Traditio alteri.</hi> Cic. <hi>Nec cernitur ulli.</hi> Virg. 1. Aen. <hi>Quam proximè poteſt ho<g ref="char:EOLhyphen"/>ſtium caſtris caſtra communit.</hi> Caeſ.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Upon what depends the</hi> Ac<g ref="char:EOLhyphen"/>cuſative Caſe?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The <hi>Accuſative Caſe</hi> either fol<g ref="char:EOLhyphen"/>lows a <hi>Verb, Verbal,</hi> or is governed of a <hi>Prepoſition,</hi> that ſerves to that Caſe, unleſs it come before an <hi>Infinitive Mood:</hi> as, <hi>Amat bonus otia</hi> Daphnis. Ecl. 5. <hi>Populabundus agros, Vitabundus caſtra hoſtium. Hanc additio. Et notio &amp; tactio nos.</hi> Plaut. <hi>Et quae tanta fuit</hi> Romam <hi>tibi cauſa videndi?</hi> Virg. 1. Ecl. <hi>Pacem</hi> Trojano <hi>ab rege petendum.</hi> Virg. <hi>Legatos ad</hi> Caeſarem <hi>mittunt rogatum auxilium.</hi> Caeſ. <hi>Nutricem accerſitum iit.</hi> Terent. <hi>Duplices tendens ad ſydera pal<g ref="char:EOLhyphen"/>mas, talia voce refert.</hi> Virg.</p>
+               <q>
+                  <l>
+                     <hi>Impiger extremos, currit</hi> Mercator <hi>ad</hi> Indos,</l>
+                  <l>
+                     <hi>Per mare pauperiem fugiens, per ſaxa, per ignes.</hi> Hor.</l>
+                  <l>
+                     <hi>Cum lucubrando juxta ancillas lanam faceres.</hi> Ter.</l>
+                  <l>
+                     <hi>Me penes eſt unum vaſti cuſtodia mundi.</hi> Ovid.</l>
+                  <l>
+                     <hi>Formoſam reſonare doces</hi> Amarylida <hi>Sylvas.</hi> Virg. Eccl. 1.</l>
+                  <l>
+                     <hi>Suum ſe negotium agere dicunt.</hi> Cic. 1. Offic.</l>
+                  <pb n="28" facs="tcp:107822:30"/>
+                  <l>
+                     <hi>Scripſit ſe audiviſſe eum miſſum factum eſſe à Conſule.</hi> Cic. ib.</l>
+               </q>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Upon what depends the</hi> Vo<g ref="char:EOLhyphen"/>cative Caſe?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The <hi>Vocative Caſe</hi> is always put Abſolute, <hi>i. e.</hi> properly governed of nothing, though it be commonly joyn'd with an Interjection: as, <hi>Credo vos mi<g ref="char:EOLhyphen"/>rari, Judices.</hi> Cic. <hi>pro Roſc. Age, dic Latinum Barbite carmen.</hi> Hor. <hi>Le<g ref="char:EOLhyphen"/>ctule deliciis facte beate meis.</hi> Propert. <hi>Amnis arundinibus limoſas obſite ripas, Siſte parumper aquas.</hi> Ovid. 3. Amor. <hi>O dolor atque decus magnum rediture pa<g ref="char:EOLhyphen"/>renti.</hi> Virg. 10. Aen. <hi>O</hi> Meliboee, <hi>Deus nobis haec otia fecit.</hi> Ecl. 1. <hi>Huc ades, O</hi> Galatea. <hi>Ecl.</hi> 9.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Upon what depends the</hi> Ab<g ref="char:EOLhyphen"/>lative Caſe?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The <hi>Ablative Caſe</hi> is always go<g ref="char:EOLhyphen"/>verned of ſome <hi>Prepoſition,</hi> that ſerves to the <hi>Ablative Caſe:</hi> as, <hi>Prae amore hunc excluſit foras.</hi> Ter. <hi>Sole ſub ardenti re<g ref="char:EOLhyphen"/>ſonant arbuſta cicadis.</hi> Virg. <hi>Vir cum magnâ fide.</hi> Plaut. <hi>A</hi> Brunduſio <hi>nulla adhuc fama venerat.</hi> Cic. <hi>Ab</hi> Epheſo <hi>profectum.</hi> Id. <hi>A</hi> Bibone <hi>diſceſſimus.</hi> Id.</p>
+               <p>And ſo much for the Regular Con<g ref="char:EOLhyphen"/>ſtruction.</p>
+               <pb n="29" facs="tcp:107822:30"/>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Very good. I now begin to take heart again; For I was al<g ref="char:EOLhyphen"/>moſt diſcouraged at our Common-Grammar</hi>-Syntax, <hi>wherein to my great grief, I reckoned no leſs than Eightſcore Rules; nay, if we divide them into their branches, they riſe to Fifteenſcore, a Regi<g ref="char:EOLhyphen"/>ment big enough to affright an old Souldier: A Freſh-man (I am ſure) dares not come near it.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>No wonder; How many of our briskeſt <hi>Engliſh</hi> Youth, within this two hundred years, being terrified at their tedious, toilſom, and unprofitable
+<note n="*" place="margin">
+                     <hi>Tantam canonum exceptio<g ref="char:EOLhyphen"/>númque molem, quâ pueritiae ingenia hodie ob<g ref="char:EOLhyphen"/>tundunt, neutiquam neceſſari<g ref="char:EOLhyphen"/>am, imo noxiam magnopere, eſſe ſentio.</hi> Voſſii, de Conſtruct. lib. 7.</note> heap of Rules and Exceptions, have in deſpair thrown away their Book; though perhaps alas (to the great loſs of both Public and Private) they have (like Illiterate Criminals) periſht for not reading in it, liv'd Fools and dy'd Brutes. And whereas 'tis ſcarce poſ<g ref="char:EOLhyphen"/>ſible to conquer that mighty Hoſt in a whole Year: it is feaſible to make your ſelf Maſter of this ſmall handful in one Day.</p>
+               <p>Tho, I ſay, every one of theſe Caſes are ſometimes put alone, with<g ref="char:EOLhyphen"/>out that other word, which governs
+<pb n="30" facs="tcp:107822:31"/>them, or on which they do depend. The <hi>Dative:</hi> as, <hi>Hei mihi, quòd nullis amor eſt medicabilis herbis.</hi> Ovid. Sup<g ref="char:EOLhyphen"/>ply <hi>adeſt</hi> thus, <hi>Hei,</hi> i.e. <hi>magnum malum adeſt mihi, &amp;c. Vae tibi,</hi> that is, <hi>vae</hi> or <hi>magnum malum ſit tibi. Vigilandum eſt ei, qui cupit vincere:</hi> i. e. <hi>Vigilandum eſt neceſſarium ei, &amp;c. Nec tu eras ſolvendo.</hi> Cic. 2. Philip. <hi>Aptus</hi> or <hi>idoneus</hi> ellipted, compleat thus, <hi>Nec tu ſolvendo aeri alieno ſufficiens eras. Ferrum non eſt tundendo.</hi> Plin. ſupp. <hi>accommodatum. Radix ejus veſcendo non est.</hi> Id. underſtand <hi>apta.</hi> Of the other elliptically uſed, you will find many Examples in their proper place, <hi>viz.</hi> in the Figurative or Irre<g ref="char:EOLhyphen"/>gular <hi>Syntax.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What is the Figurative or Irregular</hi> Syntax?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>It is that Conſtruction, that re<g ref="char:EOLhyphen"/>cedes from both the uſual way of Speaking, and the Rules of Grammar; and if compared with the Regular, hath in it ſomething Deficient, Redun<g ref="char:EOLhyphen"/>dant, or otherwiſe changed by Permu<g ref="char:EOLhyphen"/>tation or Tranſpoſition: but withal is more elegant, as having been ſtudied by the beſt Authors.</p>
+               <pb n="13" facs="tcp:107822:31"/>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How many Figures therefore naturally ariſe from this Irregu<g ref="char:EOLhyphen"/>larity?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Four: <hi>viz. Ellipſis, Pleonaſmus, Syl<g ref="char:EOLhyphen"/>lepſis, Hyperbaton;</hi> to which ſome add <hi>Helleniſmus.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What is</hi> Ellipſis?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>It is a Defect in a Sentence.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How manifold is this Defect?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>This Defect is twofold.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which is the firſt of theſe De<g ref="char:EOLhyphen"/>fects?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The firſt of theſe Defects is the want of One or more words, which was or were never before expreſt in the Sentence.</p>
+               <p n="1">1. Of a <hi>Noun.</hi>
+               </p>
+               <p>(1.) <hi>Subſtantive:</hi> as, <hi>Juvenal</hi> Satyr. 5. <hi>Quando vocatus adeſt calidae gelidaeque miniſter;</hi> ſupple <hi>aquae:</hi> for <hi>Cicero</hi> ſaid intirely, <hi>Si aquam gelidam biberent.</hi> 1. Catil. and <hi>Apuleius, aqua calida in<g ref="char:EOLhyphen"/>jecta.</hi> 2. Metamorph.</p>
+               <p>(2.) <hi>Adjective:</hi> as, <hi>Homo frugi, ho<g ref="char:EOLhyphen"/>mines frugi;</hi> ſubaudi <hi>bonae: Cicero</hi> ex<g ref="char:EOLhyphen"/>preſſes it, <hi>lib.</hi> 4. <hi>ad Attic. Permodeſtus ac bonae frugi homo.</hi> So does <hi>Plautus</hi> capt. <hi>Fui ego lepidus, neque bonis vir unquam, neque frugi bonae:</hi> where <hi>frugi</hi> ſtands for
+<pb n="32" facs="tcp:107822:32"/>
+                  <hi>frugis,</hi> the Genitive of <hi>frux,</hi> as <hi>Cicero</hi> ſays <hi>Mehercle</hi> doth for <hi>Mehercules,</hi> the <hi>S</hi> being worn off
+<note n="*" place="margin">
+                     <hi>Antiqui dicebant bonae fru<g ref="char:EOLhyphen"/>gis, poſtea bonae frugi, deinde fru<g ref="char:EOLhyphen"/>gi tantúm,</hi> Fr. Sanctii Minervae, pag. 288.</note>.</p>
+               <p>(3.) Both: as, <hi>Tenere memoriâ prae<g ref="char:EOLhyphen"/>textatum te decoxiſſe,</hi> ſupp. <hi>rem familia<g ref="char:EOLhyphen"/>rem.</hi> Cic. 2. Philipp.</p>
+               <p n="2">2. Of a <hi>Pronoun:</hi> as, <hi>Non poſſum cre<g ref="char:EOLhyphen"/>dere,</hi> for <hi>me credere. Non veretur men<g ref="char:EOLhyphen"/>tiri,</hi> for <hi>ſe mentiri.</hi> Paulus <hi>creditur feciſſe,</hi> for <hi>illum feciſſe. Lucretius</hi> ſays com<g ref="char:EOLhyphen"/>pleatly, <hi>Quippe etenim quam multae tibi me fingere poſſum.</hi> Saluſt. <hi>Qui ſe ſtudent praeſtare caeteris.</hi> Plautus Curcull. Aeſ<g ref="char:EOLhyphen"/>culapius <hi>mihi viſus eſt eum ad me non adire, neque me magni pendere.</hi>
+               </p>
+               <p n="3">3. Of a <hi>Verb:</hi> as, <hi>Ego illud ſedulò ne<g ref="char:EOLhyphen"/>gare factum;</hi> Ter. ſupple <hi>coepi. Facile omnes perferre &amp; pati;</hi> Id. puta <hi>ſolebat. Quod epiſtolam mea<g ref="char:cmbAbbrStroke">̄</g> ad</hi> Brutum <hi>poſcis, non habeo ejus exemplum.</hi> Cic. ad Attic ſupp. <hi>reſpondeo. Sed ſi confeſſionem culpae meae exigitis, ego fui pater durus, &amp; patrimonii tenax cuſtos.</hi> Quintil. ſubaudi <hi>confiteor. Diſce puer virtutem ex me, verúm<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> labore<g ref="char:cmbAbbrStroke">̄</g>, Fortunam ex aliis.</hi> Virg. where <hi>Fortunam</hi> is governed of <hi>Opta, Pete,</hi> or ſome ſuch like Verb underſtood, and not of <hi>Diſce,</hi> becauſe <hi>Fortuna non diſcitur.</hi> So, <hi>Sacra manu, victoſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Deos, parvumq, nepote<g ref="char:cmbAbbrStroke">̄</g>, Ipſe
+<pb n="33" facs="tcp:107822:32"/>trahit.</hi> Idem: where <hi>trahit</hi> reſpects only <hi>nepotem,</hi> and <hi>ſacra</hi> and <hi>Deos</hi> are governed of <hi>portat</hi> or the like ſup<g ref="char:EOLhyphen"/>preſſed. Likewiſe, in that Saying of the ſame Author, <hi>Ne tenues pluviae, ra<g ref="char:EOLhyphen"/>pidive potentia Solis Acrior aut Boreae pe<g ref="char:EOLhyphen"/>netrabile frigus aduret:</hi> where <hi>noceant</hi> is to be ſupplied, for <hi>tenues fluviae</hi> to agree with. So in that of <hi>Cicero, Fortunâ, quâ illi florentiſſimâ, nos duriori confli<g ref="char:EOLhyphen"/>ctati videmur:</hi> where <hi>conflictati</hi> has a reſpect only to the ſecond Clauſe, and <hi>
+                     <g ref="char:V">Ʋ</g>ſi</hi> is ellipted in the former.</p>
+               <p n="4">4. Of a <hi>Participle:</hi> as, <hi>Anna ſoror. Virg.</hi> ſupple <hi>exiſtens. Divitiacus com<g ref="char:EOLhyphen"/>plexus obſecrare coepit, nequid gravius in frasrem statueret; ſcire ſe illa eſſe vera. Caeſ.</hi> for <hi>dicens ſe ſcire.</hi>
+               </p>
+               <p n="5">5. Of an <hi>Adverb:</hi> as, <hi>Ita ut non modò, generare homines, ſed ne advenas quidem recipere, ac tueri poſſent.</hi> Juſtin. <hi>Hiſt. lib.</hi> 2. for <hi>non modo non, &amp;c. Gra<g ref="char:EOLhyphen"/>vidam illam reliqui, quam abeo;</hi> for <hi>pri<g ref="char:EOLhyphen"/>uſquam. Tacita ſemper est bona mulier, quam loquens;</hi> i. e. <hi>magis bona.</hi> Plaut. <hi>Si quiſquam eſt, qui placere cupiat bonis, quam plurimis.</hi> Ter. <hi>Nempe bonis potiùs quam plurimis.</hi>
+               </p>
+               <pb n="34" facs="tcp:107822:33"/>
+               <p n="6">6. Of a <hi>Conjunction:</hi> as, <hi>Tu quoque magnam partem opere in tanto, ſineret dolor,</hi> Icare <hi>haberes.</hi> Virg. for <hi>ſi ſineret. Itaque ſimul exſurrecti ſumus, viſa illa contem<g ref="char:EOLhyphen"/>nimus.</hi> Cic. for <hi>ſimul ac. Nimiùm me crede colori; alba liguſtra cadunt.</hi> Virg. for <hi>nam alba, &amp;c. Cave cadas, cave faxis,</hi> for <hi>ne cadas, ne faxis</hi> or <hi>facias.</hi> That of <hi>Tully</hi> is perfect, <hi>Nonne caveam ne ſcelus faciam. Laeva, ſive dextera voca<g ref="char:EOLhyphen"/>ret aura:</hi> for <hi>ſive laeva. Tollere, ſen ponere vult freta.</hi> Hor. lib. 1. Od. 3. for <hi>ſcis tollere.</hi>
+               </p>
+               <p n="7">7. Of a <hi>Prepoſition:</hi> as, <hi>Lavináque venit littora.</hi> Virg. ſc. ad. <hi>Pridie Calen<g ref="char:EOLhyphen"/>das. Multos abhinc annos;</hi> ſupp. <hi>ante. Opus eſt mihi libris;</hi> puta <hi>in. Eruitur<g ref="char:EOLhyphen"/>que oculos.</hi> Ovid. Metam. 12. <hi>Triſtior &amp; lacrymis oculos ſuffuſa nitentes.</hi> Virg. ſubandi <hi>quod ad. Crine ruber, niger ere, brevis pede, lumine laeſus, Rem magnam praeſtas,</hi> Zoile, <hi>ſi bonus es;</hi> Martial. 12. l. 54. Epigr. ſupp. <hi>in. Foſſam ſex cubitis altam, duodecim latam cum duxiſſet.</hi> Liv. bell. Mac. 7. for <hi>à ſex cubitit.</hi>
+               </p>
+               <p n="8">8. Of an <hi>Interjection:</hi> as, <hi>Salve primus omnium parens patriae, appellate; primus in togâ triumphum, linguaeque lau<g ref="char:EOLhyphen"/>ream merite.</hi> Plin. lib. 7. c. 30. for <hi>appel<g ref="char:EOLhyphen"/>late
+<pb n="35" facs="tcp:107822:33"/>O merite. Jam nimiùm</hi> Meſſala <hi>mei ſtudioſe quieſcas. Non tempeſtivae ſaepe propinque viae.</hi> Tibull. lib. 4. for <hi>O</hi> Meſ<g ref="char:EOLhyphen"/>ſala. <hi>Me miſerum.</hi> Ter. ſupp. <hi>Ah; O. Ovid</hi> ſpoke fully, 2. <hi>Triſt. O Princeps parce viribus uſe.</hi> So did <hi>Virgil; O for<g ref="char:EOLhyphen"/>tunatos nimiùm bona ſi ſuâ nôrint agri<g ref="char:EOLhyphen"/>colas!</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What is the ſecond of theſe Defects?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The ſecond is the want of One or more Words, which is or are ex<g ref="char:EOLhyphen"/>preſſed in the Sentence either before or after.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How manifold is this ſecond ſort of</hi> Ellipſis?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>It is triple or threefold.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which is the firſt of theſe three kinds of the ſecond ſort of</hi> Ellipſis?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The firſt is, when a <hi>Noun</hi> or a <hi>Verb</hi> is to be repeated after the ſelf-ſame manner (that is, without any the leaſt alteration either of Gender, Caſe, Number, Perſon, or ſignification, &amp;c.) that it is expreſſed: as,
+<q>
+                     <l>
+                        <hi>Trojugena interpres Divûm, qui numina</hi> Phoebi,</l>
+                     <pb n="36" facs="tcp:107822:34"/>
+                     <l>
+                        <hi>Qui tripodas, Clarii radios, qui Sydera ſentis,</hi>
+                     </l>
+                     <l>
+                        <hi>Et volucrum linguas, &amp; praepetis omnia pennae.</hi>
+                     </l>
+                  </q> Where the Verb <hi>ſentis,</hi> being once ex<g ref="char:EOLhyphen"/>preſt, is five times in the ſame manner underſtood.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which is the ſecond?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The ſecond is, when the word expreſt cannot be repeated without ſome alteration, either</p>
+               <p n="1">1. Of Gender: as, <hi>Et genus &amp; vir<g ref="char:EOLhyphen"/>tus, niſi cum re vilior algâ eſt.</hi> Hor. <hi>
+                     <g ref="char:V">Ʋ</g>tinam aut hic ſurdus, aut haec muta facta ſit.</hi> Ter.</p>
+               <p n="2">2. Of Caſe: as, <hi>Quid ille fecerit, quem neque puder quicquam, nec metuit quenquam, nec legem putat tenere ſe ullam.</hi> Ter. for <hi>qu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> nec metuit, &amp;c.</hi>
+               </p>
+               <p n="3">3. Of Number: as, <hi>Sociis &amp; rege recepto.</hi> Ving. <hi>Hic illius arma, hic currus fuit.</hi> Idem.</p>
+               <p n="4">4. Of Perſon: as, <hi>Ille timore, ego riſu corrui.</hi> Cic. <hi>Quamvis ille niger, quam<g ref="char:EOLhyphen"/>vis tu candidus eſſes.</hi> Ving.</p>
+               <p>This ſecond kind was formerly call'd <hi>Zeugma Connectio</hi> or <hi>Adjunctio.</hi>
+               </p>
+               <pb n="37" facs="tcp:107822:34"/>
+               <p>Or of Signification: as, Nero <hi>ſuſtu<g ref="char:EOLhyphen"/>lit matrem,</hi> Aeneas <hi>Patrem. Provolutae deinde genibus</hi> Alexandri, <hi>non mortem ſed ut</hi> Darii <hi>corpus ſepeliant, dilationem mortis deprecantur.</hi> Juſtin. <hi>Egregius ado<g ref="char:EOLhyphen"/>leſcens &amp; coedem patris, &amp; necem fratris, &amp; ſe ab inſidiis</hi> Artabani <hi>vindicavit.</hi> Idem.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which is the third?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The third is, when any word ſignifying the Whole is ſet down, which preſently after in the parts is not expreſſed, but underſtood: as, <hi>Aquilae volârunt, haec ab Oriente, illa ab Occi<g ref="char:EOLhyphen"/>dente.</hi> Cic. <hi>Conſules profecti;</hi> Valerius <hi>in Campaniam,</hi> Cornelius <hi>in Samnium. Liv.</hi> And this is the old Gramma<g ref="char:EOLhyphen"/>rians Prolepſis.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What is</hi> Pleonaſmus?</p>
+               <p>
+                  <hi>B. Pleonaſmus</hi> is, when a Word, in a Sentence, more than is neceſſary re<g ref="char:EOLhyphen"/>dounds: as, <hi>Verum qui dederit, magis majores nugas egerit,</hi> Plaut. Poenul. <hi>Apis, ſi ſaevit, maximè peſſima eſt.</hi> Colu<g ref="char:EOLhyphen"/>mella; where <hi>magis</hi> and <hi>maximè</hi> are ſuperfluous. <hi>Se ab omnibus deſertos po<g ref="char:EOLhyphen"/>tius, quam abs te defenſos eſſe malunt.</hi> Cic. where <hi>potius</hi> is overplus by virtue of the Verb <hi>Malo.</hi>
+               </p>
+               <pb n="38" facs="tcp:107822:35"/>
+               <p>In like manner when a <hi>Noun,</hi> and its Vicar or Repreſentative a <hi>Pro<g ref="char:EOLhyphen"/>noun,</hi> are placed in the ſame Sentence, then the Deputy is Pleonaſtic: as, <hi>Sed urbana plebs, ea vero praeceps erat multis de cauſis.</hi> Sall. <hi>Poſthumius autem, de quo Senatus decrevit, ut ſtatim in</hi> Ciciliam <hi>iret, is negat ſe iturum ſine</hi> Catone. <hi>Cic.</hi> in the later Period <hi>is,</hi> in the former <hi>ea</hi> is redundant.</p>
+               <p>So when two equipollent Particles occur, the one is ſupervacaneous: as, <hi>Oportuit praeſciſſe me ante.</hi> Ter. <hi>Olim fuit iſti generi quondam quaeſtus apud ſê<g ref="char:EOLhyphen"/>clum prius.</hi> Id. Eun. act. 2. ſc. 2. <hi>Dic me orare, ut aliquis intus prodeat properè o<g ref="char:EOLhyphen"/>ciús.</hi> Plaut. Ciſtel. act. 3. ſc. 1. <hi>Et tan<g ref="char:EOLhyphen"/>dem denique devorato pudore ad</hi> Milonem <hi>aio.</hi> Appuleius lib. 2. Met. <hi>En ecce, prolatam coram exhibeo; videat &amp; ſuum ſigillum recognoſcat.</hi> Id. lib. x. <hi>Nunc primùm fac iſtaec ut lavet: poſt deinde quod juſſi ei dare bibere, &amp; quantum im<g ref="char:EOLhyphen"/>peravi, date.</hi> Ter. Andr. act. 3. ſc. 2. <hi>Sed nequicquam fruſtra timorem illum ſatis inanem perfuncti longè pejores inhaeſimus laqueos.</hi> Apulcius 8. Met.</p>
+               <pb n="39" facs="tcp:107822:35"/>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What is</hi> Syllepſis?</p>
+               <p>
+                  <hi>B. Syllepſis</hi> is a Conſtruction, con<g ref="char:EOLhyphen"/>gruous in the ſence, but not in the words.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How manifold is</hi> Syllepſis?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Twofold: Abſolute and Rela<g ref="char:EOLhyphen"/>tive.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What is</hi> Abſolute Syllepſis?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The <hi>Syllepſis</hi> is Abſolute, when the words in the Conſtruction diſ<g ref="char:EOLhyphen"/>agree, either</p>
+               <p n="1">1. In Gender only: as, <hi>Samnitium duo milliacaeſi.</hi> Liv. Here an eye is had to <hi>homines.</hi> Or</p>
+               <p n="2">2. In Number only: as, <hi>Turba ru<g ref="char:EOLhyphen"/>unt;</hi> by reaſon that <hi>turba</hi> is a Noun of multitude, <hi>i. e.</hi> ſuch a word as in the Singular Number ſignifies many Per<g ref="char:EOLhyphen"/>ſons or Things, collected into one; as a heap, &amp;c. <hi>Propterea quod,</hi> for <hi>propter id quod.</hi> Or</p>
+               <p n="3">3. In both: as, <hi>Pars in carcerem acti, pars beſtiis objecti:</hi> Sall. Here not ſo much the Collective <hi>Pars,</hi> as the Per<g ref="char:EOLhyphen"/>ſons ſignified by that word, is re<g ref="char:EOLhyphen"/>garded.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What is the</hi> Relative Syllep<g ref="char:EOLhyphen"/>ſis?</p>
+               <pb n="40" facs="tcp:107822:36"/>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The <hi>Syllepſis</hi> is Relative, when the Relative hath a relation to an Antecedent, which is not expreſſed, but conceived by the ſence of the whole Period: as, <hi>Inter alia prodigia etiam carne pluit, quem imbrem aves feruntur rapuiſſe.</hi> Liv. where <hi>imber</hi> to which <hi>quem</hi> hath a reſpect, is not ex<g ref="char:EOLhyphen"/>preſly ſet down, but virtually compre<g ref="char:EOLhyphen"/>hended in the Verb of Nature or ex<g ref="char:EOLhyphen"/>empt action (as Grammarians term it) <hi>Pluit,</hi> as if it were <hi>imber carnis pluit.</hi> So, <hi>Per literas me conſolatus ſum, quem librum ad te<hi rend="sup">2</hi> mittam<hi rend="sup">1</hi>.</hi> Cic. Here <hi>li<g ref="char:EOLhyphen"/>teras</hi> is taken for compiling a Book, which Work he promiſes to ſend him. <hi>De</hi> Praetianâ <hi>haereditate, quae quidem mihi magno dolori eſt, (valde enim illum a<g ref="char:EOLhyphen"/>mavi) hoc velim cures.</hi> Cic. Here <hi>illum</hi> reſpects his Friend <hi>Praetius,</hi> which was not before expreſt, but cloſely couch'd in <hi>Praetianâ haereditate. Sed antea conjuravere pauci contra rempub<g ref="char:EOLhyphen"/>licam, in quibus</hi> Catilina <hi>fuit, de quâ, quam breviſſimè potero, dicam.</hi> Sall. that is, <hi>de quâ conjuratione;</hi> for the Relative <hi>quâ</hi> looks back upon the formal or cognate Accuſative <hi>Conju<g ref="char:EOLhyphen"/>rationem</hi>
+                  <pb n="41" facs="tcp:107822:36"/>
+                  <note n="*" place="margin">
+                     <p>
+                        <hi>Omne Verbum acciden<g ref="char:EOLhyphen"/>tale (id eſt, quod non ſit Subſtanti<g ref="char:EOLhyphen"/>vum) aut Activum eſt, aut Paſſivum; quorum il<g ref="char:EOLhyphen"/>lud ſemper Accuſati<g ref="char:EOLhyphen"/>vum expreſſum, aut ſuppreſſum regit.</hi>
+                     </p>
+                     <p>
+                        <hi>Hujus ratio eſt, quia inter agere &amp; pati nihil eſt medium, omniſque motus aut actio eſt aut paſſio. Neutra ergo verba ni<g ref="char:EOLhyphen"/>hil ſunt, niſi indoctorum Grammaticorum commenta, qui non animadverterunt Verborum Activorum alia varios habere Ac<g ref="char:EOLhyphen"/>cuſativos materiales; ut,</hi> facere verba, fidem, finem, inſidias: <hi>alia non niſi unicum eumque formalem &amp; cognatum; ui,</hi> vivere vitam, mori mortem, furere furorem, egere egeſtatem, currere curſum, ſedere ſeſſionem, ambulare ambulationem, ſervire ſer<g ref="char:EOLhyphen"/>vitutem, certare certamen.</p>
+                     <p>
+                        <hi>Illis, quae plures Accuſativos regunt, neceſſe eſt certum ſemper Accuſativum adjungere, quoniam aliter, quid agant, incertum erit. Sed his, quae unum tantùm regunt, inane, otioſum, ac ſupervacuum fuerit Accuſativum adjungi quoniam nemini de eo, tanquam eſſentiali ſeu formali, dubium eſſe poteſt.</hi> Scioppii Inſtit. Grammat. Lat. p. 147, 148.</p>
+                     <p>See alſo the <hi>Oxford</hi> Commentator on the Common Gram<g ref="char:EOLhyphen"/>mar, <hi>De Verbo.</hi>
+                     </p>
+                  </note> ſuppoſed to follow its Verb <hi>Conjuravere. Omnes omnia bona dicere, &amp; laudare fortunas meas, qui gnatum haberem tali ingenio praeditum.</hi> Ter. where the antecedent to <hi>qui</hi> is <hi>mei</hi> the primitive involv'd in the poſſeſſive <hi>meas. Deinde</hi> Philenorum <hi>arae, quem locum habuere</hi> Carthaginenſes. <hi>Sall.</hi> where <hi>locus</hi> is conceiv'd, as if it were <hi>arae locus, quem locum, &amp;c.</hi>
+               </p>
+               <pb n="42" facs="tcp:107822:37"/>
+               <p>Sometimes a <hi>Syllepſis</hi> meets in Con<g ref="char:EOLhyphen"/>junction with a <hi>Zeugma:</hi> as, when an <hi>Adjective</hi> or <hi>Relative</hi> is not referr'd to the Gender of the neareſt <hi>Subſtantive;</hi> but of another more remote: as, <hi>A<g ref="char:EOLhyphen"/>mor tuus, ac judicium de me, utrum mihi plus dignitatis in perpetuum, an voluptatis quotidie fit allaturus, non facile dixerim. Planc. Ciceroni;</hi> where <hi>allaturus</hi> relates only to <hi>amor tuus,</hi> and <hi>allaturum</hi> muſt be ſupplied for <hi>judicium</hi> to agree with. <hi>Gens eſt, cui natura corpora, animoſque magis magna, quam firma dedit.</hi> Liv. lib. 5.</p>
+               <p>Sometimes with a pure <hi>Ellipſis:</hi> as, when the <hi>Adjective</hi> agrees with ſome word no where expreſt: <hi>Timidi damae.</hi> Virg. <hi>Talpae oculis capti.</hi> Virg. here <hi>mares</hi> or <hi>maſculi</hi> muſt be underſtood. <hi>In Eunuchum ſuam,</hi> ſupply <hi>fabulam.</hi> Ter.</p>
+               <p>Sometimes again we find the <hi>Syl<g ref="char:EOLhyphen"/>lepſis</hi> inverted; as, when the ſtructure is congruous in the words, but abſurd in the ſence: as, <hi>Ovid.</hi> Metam. lib. 1. <hi>In nova fert animus mutatas dicere for<g ref="char:EOLhyphen"/>mas, corpora;</hi> for, <hi>Animus fert dicere corpora mutata in novas formas.</hi> Virg. <hi>Dare claſſibus Auſtros;</hi> for, <hi>Dare claſſes
+<pb n="43" facs="tcp:107822:37"/>Auſtris.</hi> So, <hi>Et gladium vaginâ vacu<g ref="char:EOLhyphen"/>um in urbe non vidimus;</hi> for, <hi>vaginam gladio vacuam.</hi> This Schematologers uſe to call an <hi>Hypallage.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What is</hi> Hyperbaton?</p>
+               <p>
+                  <hi>B. Hyperbaton</hi> is a confus'd and diſ<g ref="char:EOLhyphen"/>ordered order of Words.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How many are the ſpecies or ſorts of</hi> Hyperbaton?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Of <hi>Hyperbaton</hi> or <hi>Hyperbaſis</hi> there are four kinds.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which is the firſt?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The firſt is <hi>Anaſtrophe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What is</hi> Anaſtrophe?</p>
+               <p>
+                  <hi>B. Anaſtrophe</hi> is a Figure, whereby words which ſhould have been prece<g ref="char:EOLhyphen"/>dent, are poſtpon'd, but within the ſame Clauſe: as, <hi>Mecum</hi> for <hi>cum me, Quamobrem</hi> for <hi>ob quam rem. His ac<g ref="char:EOLhyphen"/>cenſa ſuper. Nam quis te juvenum confi<g ref="char:EOLhyphen"/>dentiſſime noſtras Juſſit adire domos?</hi> Virg. for <hi>Quiſnam.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which is the ſecond?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The ſecond is <hi>Tmeſis.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What is</hi> Tmeſis?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>It is a Figure, whereby the parts of a compounded word are divided by ſome other word or words coming betwixt the parts: as, <hi>Rem verò publi<g ref="char:EOLhyphen"/>cam
+<pb n="44" facs="tcp:107822:38"/>amiſimus.</hi> Cic. <hi>Septem ſubjecta</hi> Tri<g ref="char:EOLhyphen"/>oni. <hi>Me certe in omnibus rebus ſatis noſtraeque conjunctioni amorique facturum.</hi> Cic.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which is the third?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The third is <hi>Parentheſis.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What is</hi> Parentheſis?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>It is a Figure, which incloſes within one Sentence another Sentence, which is not part of it: as, <hi>Tityre dum redeo (brevis est via) paſce capellas.</hi> Virg.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which is the fourth?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The fourth is <hi>Synchyſis.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What is</hi> Synchyſis?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>It is a conſuſed intermixture of words belonging to one Clauſe, with words that belong to another, which either alters the ſence, or renders the Sentence extremely difficult: as,
+<q>
+                     <l>
+                        <hi>Saxa vocant</hi> Itali <hi>mediis quae in flucti<g ref="char:EOLhyphen"/>bus, aras.</hi> Virg. for</l>
+                     <l>Itali <hi>vocant Saxa, quae in mediis flucti<g ref="char:EOLhyphen"/>bus, aras.</hi> So <hi>Hor.</hi> L. 2. Sat. 1.</l>
+                     <l>
+                        <hi>Si mala condiderit in quem quis carmina; Jus eſt</hi>
+                     </l>
+                     <l>
+                        <hi>Judiciumque. Eſto, ſi quis mala: ſed bona ſiquis</hi>
+                     </l>
+                     <pb n="45" facs="tcp:107822:38"/>
+                     <l>
+                        <hi>Judice condiderit laudatur</hi> Caeſare: for <hi>Si quis bona carmina condiderit, lauda<g ref="char:EOLhyphen"/>tur judice</hi> Caeſare.</l>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How comes it to paſs, that you divide this Figure, but into Four, whereas the</hi> Oxford <hi>Gram<g ref="char:EOLhyphen"/>mar, diſtiuguiſhes it into five Branches?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The <hi>Oxford</hi> Grammarian (I con<g ref="char:EOLhyphen"/>feſs) in compliance with <hi>Sanctius</hi> and <hi>Scioppius,</hi> makes <hi>Anacoluthon</hi> a ſpecies of <hi>Hyperbaton:</hi> But in this I ask that Ingenious Gentlemans pardon, if I take new meaſures unwarranted by his Standard; ſince in the Examples al<g ref="char:EOLhyphen"/>ledged either by him or <hi>Scioppius,</hi> or <hi>Sanctius,</hi> I can perceive no confuſion or diſorder in the Tranſpoſition.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>What is</hi> Anacoluthon?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>It is an incoherent Conſtru<g ref="char:EOLhyphen"/>ction; wherein there is no alliance betwixt the former and later part of the Sentence: as for inſtance, <hi>Nam omnes nos, quibus eſt alicunde aliquis ob<g ref="char:EOLhyphen"/>jectus labos, omne quod eſt interea tempus, priuſquam ad reſcitum eſt, lucro eſt.</hi> Ter. Hecyr. act. 3. ſc. 1. for, <hi>Nam omnibus nobis, quibus eſt alicunde aliquis objectus labos, omne quod eſt interea tempus,
+<pb n="46" facs="tcp:107822:39"/>priſſquam id reſcitum eſt, lucro eſt. Praetor interea, ne pulchrum ſe ac beatum putaret, atque aliquis ipſe ſuâ ſponte loqueretur, ei quoque carmen compoſitum eſt.</hi> Ci<g ref="char:EOLhyphen"/>cero pro Mur. for, <hi>Praetori quoque in<g ref="char:EOLhyphen"/>terea ne pulchrum is ſe ac beatum putaret, atque aliquid ipſe ſuâ ſponte loqueretur, carmen compoſitum eſt. Etenim ſi ora<g ref="char:EOLhyphen"/>tiones, quas non multitudinis judicio pro<g ref="char:EOLhyphen"/>bari volebamus (popularis enim eſt illa facultas, &amp; effectus eloquentiae eſt audi<g ref="char:EOLhyphen"/>entium appr<hi rend="sup">2</hi>obatio<hi rend="sup">1</hi>) ſed ſi reperiebantur nonnulli, qui nihil laudarent, niſi quod ſe imitari poſſe confiderent.</hi> Cic.</p>
+               <p>A notable Example of this you may read in Mr. <hi>Tho. Tomkins</hi>'s Imprimatur, prefixt to that excellent practical Treatiſe, <hi>The Cauſes of the Decay of Chriſtian Piety.</hi>
+               </p>
+               <floatingText xml:lang="lat" type="imprimatur">
+                  <body>
+                     <head>Imprimatur</head>
+                     <p>
+                        <hi>HIc Liber verè Chriſtianus; qui, ſi Primaevam ſpectes pietatem, Summam Eloquentiam, Rationum pondus, nihil in eo de<g ref="char:EOLhyphen"/>eſt, quo minus poſſit nos omnes, quales tam accuratè deſcribit,
+<pb n="47" facs="tcp:107822:39"/>verè Chriſtianos efficere. Puriori aevo ſanè digniſſimus eſt, niſi quod tam potens ſit, qui vel noſtrum ſaeculum transformaret in melius. Benedicat Deus Operi &amp; Au<g ref="char:EOLhyphen"/>thori:</hi> For, <hi>Imprimatur, hic Liber verè Chriſtianus; in quo (ſi Primaevam ſpectes pietatem, Summam Eloquentiam, Ratio<g ref="char:EOLhyphen"/>num pondus) nihil deeſt, quo mi<g ref="char:EOLhyphen"/>nus is poſſit nos omnes, quales tam accuratè deſcribit, verè Chri<g ref="char:EOLhyphen"/>ſtianos efficere, &amp;c.</hi>
+                     </p>
+                     <p>Such as theſe in Claſſic Authors we call <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, <hi>Solecophane;</hi> but in the Vulgar, <hi>Soleciſms.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>You ſay ſome add</hi> Helleniſmus; <hi>What is</hi> Helleniſmus?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>'Tis a Latin imitation of the Greek Conſtruction.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Is therefore every Latin imi<g ref="char:EOLhyphen"/>tation of the Greek Conſtruction a</hi> Helleniſm?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>No: for then the whole Latin Tongue would be little other than one continued <hi>Helleniſm.</hi> But a <hi>Helleniſm,</hi> properly ſo call'd, is, when the <hi>Romans</hi>
+                  <pb n="48" facs="tcp:107822:40"/>departing from their own Native way of ſpeaking, do follow the <hi>Greek</hi> or <hi>Tranſmarine</hi> Cuſtom. And every ſuch Latin imitation of the Greek Con<g ref="char:EOLhyphen"/>ſtruction is a <hi>Helleniſm.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>How many kinds of</hi> Helle<g ref="char:EOLhyphen"/>niſm <hi>are there?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Of <hi>Helleniſm</hi> there are divers ſorts (in which whoever deſires to be critically curious, let him make fre<g ref="char:EOLhyphen"/>quent addreſſes to Dr. <hi>Linacer</hi>'s Sixth Book, <hi>De emendatâ ſtructurâ
+<note n="*" place="margin">From page the 409. to the end.</note>; to <hi>Voſſius</hi>'s <hi>De conſtructione</hi>
+                     <note n="‖" place="margin">Cap. 32, 33, 34, 35, 36, 37, 38.</note>; to <hi>Farnaby'; Syſtema Grammaticum;</hi> to <hi>Poſſelius</hi>'s Syntaxis Graeca,</hi> and to <hi>M. Jo. Rheni<g ref="char:EOLhyphen"/>us</hi>'s <hi>Graeca Grammatica Major.</hi>) But the principal are <hi>Graeciſms</hi> in Caſes, in Numbers, and in Genders.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Give an Example or two of this Imitation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Before I exemplifie, I muſt diſtinguiſh betwixt Attraction and Go<g ref="char:EOLhyphen"/>vernment: For the Greeks of two Caſes (if they have a mutual reſpect one to the other) govern but one, they joyn the other to it, and ſo the one is, as it were, drawn by the other:
+<pb n="49" facs="tcp:107822:40"/>as for Example, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Johan. cap.</hi> 2. <hi>ver.</hi> 22. for <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. So the Latins. <hi>Quum ſcribas &amp; aliquid agas quorum conſueviſti.</hi> Lucejus <hi>ad</hi> Ciceronem <hi>lib.</hi> 5. <hi>Epiſt.</hi> for <hi>quae conſueviſti. Sed istum quem quaeris ego fum.</hi> Plaut. Curc. <hi>Occurrunt animae, quales neque candidio<g ref="char:EOLhyphen"/>res terra tulit,</hi> for <hi>qualibus.</hi> Hor. 1. Serm.</p>
+               <p>It is alſo a <hi>Helleniſm,</hi> when a Caſe, ſet betwixt two Verbs, is drawn by the former, on which in ſtrictneſs it ought to have no dependance: as, <hi>Illum ut vivat, optant.</hi> Ter. Adelph. <hi>Haec me, ut confidam, faciunt.</hi> Cic. Qu. Frat. <hi>Atque iſtud, quicquid eſt, fac me, ut ſciam.</hi> Ter. Heaut.</p>
+               <p>Such <hi>Helleniſtical</hi> Expreſſions as theſe, are familiar to <hi>Plautus, Terence,</hi> and <hi>Lucilius;</hi> but in <hi>Plautus</hi>'s <hi>Poenulus</hi> there is one (I think) without parallel: viz. <hi>Patrem atque matrem viverent vel<g ref="char:EOLhyphen"/>lem tibi.</hi> Act. 5. ſc. 2. Here the <hi>Accuſa<g ref="char:EOLhyphen"/>tives</hi> ſeem to ſtand inſtead of <hi>Nomina<g ref="char:EOLhyphen"/>tives.</hi>
+               </p>
+               <pb n="50" facs="tcp:107822:41"/>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Are</hi> Numbers <hi>and</hi> Genders <hi>ever drawn</hi> Helleniſtically?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>They are,</p>
+               <p n="1">1. Numbers: for as in the prece<g ref="char:EOLhyphen"/>dent Examples a Caſe ſet between two Verbs is attracted by the former: ſo by the ſame Figure it falls out ſometimes that a Verb, being placed betwixt two Caſes, is drawn by the latter: as, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Phil.</hi> So in Latin, <hi>Amantiumirae amoris red<g ref="char:EOLhyphen"/>integratio eſt.</hi> Ter. <hi>Pectus robora fiunt.</hi> Ovid. <hi>Omnia pontus erat.</hi> Id. In which Examples the Verbs are ſo at<g ref="char:EOLhyphen"/>tracted by the later and nearer <hi>Nomi<g ref="char:EOLhyphen"/>native</hi> Caſes, that they change their Numbers.</p>
+               <p n="2">2. Genders: as, <hi>Saxum antiquum, in<g ref="char:EOLhyphen"/>gens, campo qui fortè jacebat, Limus agro poſitus.</hi> Virg. where <hi>campo</hi> by attraction cauſes the Relative <hi>qui,</hi> which regular<g ref="char:EOLhyphen"/>ly ſhould be <hi>quod,</hi> to take a Maſculine termination.</p>
+               <p>So when a Relative <hi>Adjective</hi> ſtand<g ref="char:EOLhyphen"/>ing betwixt two <hi>Subſtantives</hi> of diffe<g ref="char:EOLhyphen"/>rent Genders, agrees with the later: as, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Lucian. Homines tuentur illum globum, quae terra dicitur;</hi> where <hi>terra</hi> attracts the Gen<g ref="char:EOLhyphen"/>der
+<pb n="51" facs="tcp:107822:41"/>of <hi>quae,</hi> which according to the <hi>Roman</hi> cuſtom would be <hi>qui,</hi> as re<g ref="char:EOLhyphen"/>hearſing its antecedent <hi>globum.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Give an Example wherein the</hi> Latins, <hi>leaving their own ver<g ref="char:EOLhyphen"/>naculous way of Speaking, imi<g ref="char:EOLhyphen"/>tate the</hi> Greeks <hi>in Government.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>1. The <hi>Greeks</hi> (and in <hi>ſpecie</hi> the <hi>Atticks</hi>) omit the Prepoſition <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> or <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, juſt ſo the <hi>Latins</hi> conceal <hi>quod ad,</hi> or <hi>ſecundum:</hi> as, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Ariſtoph</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Pſal.</hi> 146. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Soph. Antig.</hi> ſupply <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Expleri mentem ne<g ref="char:EOLhyphen"/>quit.</hi> Virg. 4. Aeneid. <hi>Qui purgar bi<g ref="char:EOLhyphen"/>lem.</hi> Hor. de Arte. <hi>Habeo multa alia, quae nunc condonabitur.</hi> Ter. Eunuch. i.e. <hi>quod ad quae, &amp;c. Sanè caeterapater<g ref="char:EOLhyphen"/>familias, &amp; prudens &amp; attentus, unâ in re minùs, conſideratus.</hi> Cic. <hi>pro</hi> Quin<g ref="char:EOLhyphen"/>ctio.</p>
+               <q>
+                  <l>
+                     <hi>Omnia</hi> Mercurio <hi>ſimilis vocemque colo<g ref="char:EOLhyphen"/>remque,</hi>
+                  </l>
+                  <l>
+                     <hi>Et flavos crines, &amp; membra decora ju<g ref="char:EOLhyphen"/>ventae.</hi> Virg. Aeneid. 4. ſupp. <hi>Quod ad,</hi> or <hi>ſecundum.</hi>
+                  </l>
+               </q>
+               <p>So we ſay, <hi>Primum, tertium, tantum, quantum, nimium, principium,</hi> as the
+<pb n="52" facs="tcp:107822:42"/>Greeks, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p n="2">2. The Prepoſition <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which ſerves to the <hi>Genitive</hi> Caſe, is ſo generally ellipted, that the Greek Grammari<g ref="char:EOLhyphen"/>ans have thence been deluded into a belief, that ſome Verbs do govern a <hi>Genitive</hi> Caſe. And yet <hi>Lucian</hi> ex<g ref="char:EOLhyphen"/>preſſes this Particle: as, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. So doth <hi>Iſocrates:</hi> as, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. But it is moſtly con<g ref="char:EOLhyphen"/>ceiv'd: as, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Plato</hi> in <hi>Phaedone.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Ariſtoph.</hi> Nubes. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Iſoc. Helen.</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Actor.</hi> c. 3. v. 7. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Matth.</hi> c. 16. v. 28. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Act.</hi> c. 22. v. 7. Hence the Latins: <hi>Abſtineto irarum, calidaeque rixae.</hi> Hor. l. 3. Od. 27. <hi>Deſine mollium querelarum.</hi> Id. l. 2. Od. 9. <hi>Regnavit populorum.</hi> Lib. 3. Od. 30. So, <hi>Imperti me divitiarum. Arripiunt illum pedis. Guſtavit mellis. Audivit muſicae, &amp;c.</hi> Hereupon in <hi>Vitruvius</hi> the Latin Prepoſition <hi>Ex</hi> is found go<g ref="char:EOLhyphen"/>verning a <hi>Genitive</hi> Caſe: as, <hi>Deſcriptio ex duodecim ſignorum coeleſtium.</hi> L. 8. cap. ult. <hi>Si ex imbrium aquae vis occupa<g ref="char:EOLhyphen"/>verit.</hi> L. 3. c. 2. <hi>Piſcium naturae plurimum ex aeris &amp; terreni ſunt compoſitae.</hi> L. 1.
+<pb n="53" facs="tcp:107822:42"/>c. 4. &amp;c. which nevertheleſs is not to be imitated.</p>
+               <p n="3">3. There is alſo a <hi>Greciſm</hi> in theſe and the like Inſtances: viz. <hi>Quibus</hi> Hector, <hi>ab oris, Exſpectate venis?</hi> Virg. 2. Aeneid. for <hi>exſpectatus. Cenſoremve tunm vel quod trabeate ſalutas.</hi> Perſ. Sat. 3. for <hi>trabeatus. Adſis laetitiae</hi> Bacchus <hi>dator.</hi> Virg. 1. Aeneid. for Bacche. <hi>Vos ô patricius ſanguis.</hi> Perſ. 1. Sat. for <hi>patr<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ie:</hi> For in the <hi>Attic</hi> Dialect (the <hi>Nominative</hi> and <hi>Vocative</hi> ending both alike) they commonly uſe the <hi>Vocative</hi> in lieu of the <hi>Nominative,</hi> and <hi>vice verſâ;</hi> inſomuch that even <hi>Deus</hi> in the <hi>Vocative</hi> (ſays
+<note n="*" place="margin">Art of Teaching, Chapt. 1. But I in<g ref="char:EOLhyphen"/>cline more to <hi>Sancti<g ref="char:EOLhyphen"/>us,</hi> who in the Sixth Chapter of his <hi>Minerva,</hi> proves the clear contrary, and concludes thus: <hi>Dicimus itaque rectè; Defende me amici mi, &amp; defende me amicus meus; ſed diverſo ſenſu &amp; Syntaxi: Nam in hoc poſteriore ſunt veluti duae Orationes, &amp; deus</hi> Ens, <hi>vel</hi> qui es. <hi>Unde falluntur, qui in Sacris literis putant nomen</hi> Deus <hi>facere Vocativum</hi> Deus. <hi>Quum legunt;</hi> Deus, Deus, reſpice in me; <hi>quum rectius ſit, &amp; legamus apud Prudentium,</hi> Dee, <hi>in Vocativo.</hi>
+                  </note> Mr. <hi>Walker</hi>) is an <hi>Atticiſm,</hi> as <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> in Greek is uſed for <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. So <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Homer.</hi> for <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Id.</hi> for <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <pb n="54" facs="tcp:107822:43"/>
+               <p n="4">4. When the <hi>Romans</hi> place a <hi>Nomi<g ref="char:EOLhyphen"/>native</hi> Caſe before an <hi>Infinitive</hi> Mood, it is done by an <hi>Helleniſm:</hi> as, <hi>Cupio eſſe clemens. <g ref="char:V">Ʋ</g>xor invicti</hi> Jovis <hi>eſſe neſcis.</hi> Hor. 3. Lib. Od. 27.</p>
+               <p>But no Author ever expreſt this <hi>Greek</hi> Phraſe, better than <hi>Ovid.</hi> Faſt. lib. 6. v. 433.
+<q>
+                     <l>
+                        <hi>Seu genus</hi> Adraſti, <hi>ſeu furtis aptus</hi> A<g ref="char:EOLhyphen"/>chilles,</l>
+                     <l>
+                        <hi>Seu pius</hi> Aeneas <hi>eripuiſſe ferunt:</hi>
+                     </l>
+                  </q> For had the Poet here ſpoken accord<g ref="char:EOLhyphen"/>ing to his own-Country-faſhion, he would have ſaid, <hi>aptum</hi> Ulyſſem, <hi>pium</hi> Aeneam.</p>
+               <p>And ſo much for the general Exa<g ref="char:EOLhyphen"/>mination of the True Latin Gram<g ref="char:EOLhyphen"/>mar.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>To conclude, tell me, How many thoſe Fundamentals or Maxims of</hi> Syntax <hi>are, which our Maſter hath ſo often inculcated to us, that we might be able to di<g ref="char:EOLhyphen"/>ſtinguiſh betwixt true Rules and falſe; as alſo to underſtand the
+<pb n="55" facs="tcp:107822:43"/>Reaſons of the truth or falſhood thereof.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The fundamentals of <hi>Syntax</hi> are compriſed in Twelve Canons.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which is the firſt Ca<g ref="char:EOLhyphen"/>non?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Every Sentence conſiſts of a <hi>Noun</hi> and a <hi>Verb;</hi> wherefore if the <hi>Verb</hi> be not expreſſed, it muſt needs be underſtood: as, <hi>Dii meliora;</hi> ſup<g ref="char:EOLhyphen"/>ple <hi>faciant. Sed vos qui tandem;</hi> ſupp. <hi>Eſtis. Bene</hi> Ennius; <hi>Prudenter</hi> Cicero. <hi>Subaudi</hi> dixit, <hi>vel</hi> fecit.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which is the ſecond Ca<g ref="char:EOLhyphen"/>non?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Every <hi>Verb</hi> of a finite Mood hath before it a <hi>Nominative</hi> Caſe, ex<g ref="char:EOLhyphen"/>preſt or ſuppreſt: as, <hi>Amavi te, quo die cognovi.</hi> Cic. ſupp. <hi>Ego. Quid facis?</hi> ſupp. <hi>tu. Aiunt, ferunt, &amp;c.</hi> ſupp. <hi>homines. Vivitur, nempe vita. Peccatur</hi> ſc. <hi>Peccatum.</hi>
+               </p>
+               <pb n="56" facs="tcp:107822:44"/>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which is the third Ca<g ref="char:EOLhyphen"/>non?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Every <hi>Verb</hi> of an Active
+<note n="*" place="margin">
+                     <p>The Ge<g ref="char:EOLhyphen"/>nus of <hi>Verbs</hi> is like that of the <hi>Noun,</hi> ei<g ref="char:EOLhyphen"/>ther Real and Phy<g ref="char:EOLhyphen"/>ſical, or Gramma<g ref="char:EOLhyphen"/>tical; and therefore their diviſion ought to be made either from their ſignification or termination.</p>
+                     <p>If you diſtribute them the former way, there are Three kinds, <hi>Active, Paſſive,</hi> and <hi>Neuter</hi> or <hi>Subſtantive.</hi>
+                     </p>
+                     <p>So all are <hi>Actives,</hi> that ſignifie actively: as, <hi>Amo, Curro, Sequor, Aio, Velo:</hi> All are <hi>Paſſives,</hi> that ſignifie paſſively: as, <hi>Amor, Vapulo:</hi> All <hi>Neuters,</hi> that ſignifie only a bare exiſtence, being, or ceaſing to be: as, <hi>Sum, fio, morior, intereo.</hi>
+                     </p>
+                     <p>If you divide them according to their termination, they end all (except ſome few) either in <hi>o</hi> or <hi>or.</hi> If in <hi>c,</hi> they either can or cannot admit <hi>r;</hi> if they can, they are called <hi>Actives,</hi> be<g ref="char:EOLhyphen"/>cauſe for the moſt part they note action; if they cannot, they are called <hi>Neuters.</hi> If they end in <hi>or,</hi> either they can caſt <hi>r</hi> away, and they are called <hi>Paſſives,</hi> or they cannot, and then they are called <hi>Deponents</hi> or <hi>Commons.</hi>
+                     </p>
+                  </note> ſigni<g ref="char:EOLhyphen"/>fication hath after it an <hi>Accuſative</hi> Caſe, expreſſed or ſuppreſſed: as, <hi>Faciliùs reperias</hi> (ſupple <hi>homines) qui</hi> Romam <hi>proficiſcantur, quàm ego, qui</hi> A<g ref="char:EOLhyphen"/>thenas. <hi>Vivit,</hi> ſupple <hi>vitam. Mortuus eſt,</hi> ſupp. <hi>mortem. Furit,</hi> ſc. <hi>furorem. Eget,</hi> nempe <hi>egeſtatem. Currit,</hi> ſc. <hi>cur<g ref="char:EOLhyphen"/>ſum. Sedet,</hi> ſupple <hi>Seſſionem, &amp;c.</hi>
+               </p>
+               <pb n="57" facs="tcp:107822:44"/>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which is the fourth Ca<g ref="char:EOLhyphen"/>non?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>As often as an <hi>Infinitive</hi> Mood comes by it ſelf in a Sentence, the <hi>Verb,</hi> on which it depends, muſt be underſtood, <hi>Coepit,</hi> ſuppoſe, or <hi>ſole<g ref="char:EOLhyphen"/>bat,</hi> or ſome ſuch like: as, <hi>Ego illud ſedulò negare factum.</hi> Ter. ſupple <hi>coepi. Facilè omnes perferre ac pati.</hi> Id. puta <hi>ſolebat, Divitiacus complexus obſecrare coepit, nequid gravius in fratrem ſtatueret, ſcire ſe illa eſſe vera, &amp;c.</hi> Caeſar. for <hi>di<g ref="char:EOLhyphen"/>cens ſe ſcire.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which is the fifth Ca<g ref="char:EOLhyphen"/>non?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Every <hi>Adjective</hi> hath its <hi>Subſtan<g ref="char:EOLhyphen"/>tive</hi> expreſſed or underſtood: as, <hi>Mor<g ref="char:EOLhyphen"/>talis,</hi> ſupple <hi>homo. Martius,</hi> ſupp. <hi>men<g ref="char:EOLhyphen"/>ſis. Oriens,</hi> ſc. <hi>Sol. Praegnans,</hi> ſupple <hi>Mulier. Regina,</hi> ſc. <hi>uxor. Patria,</hi> nempe <hi>terra. Triste lupus ſtabulis,</hi> ſupp. <hi>negotium. Altum,</hi> ſc. <hi>mare. Suburbanum,</hi> ſupp. <hi>Rus vel praedium.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which is the ſixth Ca<g ref="char:EOLhyphen"/>non?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Every Relative <hi>Adjective</hi> re<g ref="char:EOLhyphen"/>hearſeth after it its Antecedent <hi>Sub<g ref="char:EOLhyphen"/>ſtantive,</hi>
+                  <pb n="58" facs="tcp:107822:45"/>with which rehearſed <hi>Subſtan<g ref="char:EOLhyphen"/>tive</hi> it agreeth in Number, Caſe, and Termination of Gender: Wherefore an <hi>Ellipſis</hi> is to be ſuppoſed as often as the <hi>Substantive,</hi> which ought to go before the <hi>Relative,</hi> and to follow it, either only goes before it, or only follows it: And a double <hi>Ellipſis,</hi> where it is expreſſed, neither before it, nor after it: as, <hi>Vir ſapit, qui pauca loquitur;</hi> for <hi>qui vir. Populo ut place<g ref="char:EOLhyphen"/>rent, quas feciſſet fabulas.</hi> Ter. And. Prol. for, <hi>Populo ut fabulae placerent, quas fa<g ref="char:EOLhyphen"/>bulas feciſſet. Sunt, quos curriculo pul<g ref="char:EOLhyphen"/>verem</hi> Olympicum <hi>collegiſſe juvat.</hi> Hor. for <hi>Sunt homines, quos homines, &amp;c.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which is the ſeventh Ca<g ref="char:EOLhyphen"/>non?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>As often as the <hi>Genitive</hi> Caſe is ſet with an <hi>Adjective,</hi> a virtual <hi>Cor<g ref="char:EOLhyphen"/>relative,</hi> a local <hi>Prepoſition,</hi> or a <hi>Verb;</hi> either 'tis a <hi>Greciſm</hi> and depends on a <hi>Prepoſition,</hi> or ſome general <hi>Noun</hi> is underſtood: as, <hi>
+                     <g ref="char:V">Ʋ</g>ltimum dimicationis.</hi> Liv. puta <hi>tempus. Amaracurarum.</hi> Hor. nempe <hi>negotia. Sophia Septimiae.</hi> Cic. lib. 9. Ep. 10. nempe <hi>filia. Hectoris</hi> Andromache. <hi>Virg.</hi> Aen. 3. ſupple <hi>uxor.
+<pb n="59" facs="tcp:107822:45"/>Ad Castoris.</hi> Cic. pro <hi>Mill. In Vene<g ref="char:EOLhyphen"/>ris.</hi> Plaut. 1. act. ſc. 2. Poen. nempe <hi>aedem. Per</hi> Varronis, ſupp. <hi>fundum. Ex</hi> A<g ref="char:EOLhyphen"/>pollodori. <hi>Cic.</hi> puta <hi>Chronicis. Est Regis,</hi> puta <hi>Officium. Accuſas furti,</hi> ſupp. <hi>crimine.</hi> So, <hi>Cum ille ſe cuſtodiae diceret in caſtris remanſiſſe.</hi> Cic. 2. De Oratore. <hi>Rem omnem aperit, cujus mit<g ref="char:EOLhyphen"/>tebarur.</hi> Sall. Catil. puta <hi>cauſa.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which is the eight Ca<g ref="char:EOLhyphen"/>non?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Every Verb of the <hi>Infinitive</hi> Mood, hath inſtead of a <hi>Nominative</hi> an <hi>Accuſative</hi> Caſe before it, expreſſed or underſtood in a Latin Conſtru<g ref="char:EOLhyphen"/>ction: But in a Greek Conſtruction frequently a <hi>Nominative,</hi> the moſtly an <hi>Accuſative,</hi> and ſometimes both to<g ref="char:EOLhyphen"/>gether: as, <hi>Volo me facere. Poſſum me fingere. Studet ſe placere.</hi> Ellipti<g ref="char:EOLhyphen"/>cally, <hi>Volo facere. Poſſum fingere. Stu<g ref="char:EOLhyphen"/>det placere.</hi>
+                  <q>
+                     <l>Phaſelus <hi>ait fuiſſe navium celerrimus.</hi>
+                     </l>
+                     <bibl>Catull.</bibl>
+                  </q>
+                  <q>
+                     <l>
+                        <hi>Senſit medios delapſus in hoſtes.</hi>
+                     </l>
+                     <bibl>Virg.</bibl>
+                  </q>
+                  <pb n="60" facs="tcp:107822:46"/>For the <hi>Greeks</hi> ſay, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Marc.</hi> cap. 10. v. 49. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 2 <hi>Cor.</hi> c. 10. v. 2. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Thucyd.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which is the ninth Ca<g ref="char:EOLhyphen"/>non?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Every <hi>Noun</hi> of the Comparative Degree hath its Poſitive, to which it is compared, expreſſed, or underſtood: as, <hi>Viſus eſt mihi triſtior;</hi> ſupply the Poſitive, <hi>aequo, juſto,</hi> or <hi>ſolito,</hi> as if it were, <hi>Tristior prae illo triſti, qui ex aequo, juſto, aut ſolito triſtis eſt. Ocyùs incubuere omnes.</hi> Virg. ſubaudi <hi>dicto.</hi> For the Poet ſays in another place, <hi>Sic ait, &amp; dicto citiùs tumida aequora placat;</hi> nempe, <hi>Dictum ejus non tam citum eſt, quam cita eſt aequoris pla<g ref="char:EOLhyphen"/>catio.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which is the tenth Canon? [Aſſigned to ſeveral ſignificati<g ref="char:EOLhyphen"/>ons.]</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Beſides the <hi>Noun</hi> and the <hi>Verb,</hi> there are certain Particles, by which thoſe two and other leſs parts of Speech are tyed together as it were with Sinews, which when they are
+<pb n="61" facs="tcp:107822:46"/>expreſſed, the <hi>Syntax</hi> is regular; when ſuppreſſed, it is figurative: as, <hi>Gladio percuſſus;</hi> ſupp. <hi>cum, ab. Devenere lo<g ref="char:EOLhyphen"/>cos laetos.</hi> Virg. ſc. <hi>ad, in. Hac non ſucceſſit, aliâ aggrediemur viâ.</hi> Ter<g ref="char:EOLhyphen"/>ſupple <hi>ergo, itaque, igitur, Hoc vero, ex quo ſuſpicio nota eſt, me quaeſiviſſe ali<g ref="char:EOLhyphen"/>quid in quo te offenderem, tranſlatitium eſt.</hi> Cic. that is, <hi>Nempe me quaeſiviſſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which is the eleventh Ca<g ref="char:EOLhyphen"/>non?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Every <hi>Accuſative</hi> Caſe is go<g ref="char:EOLhyphen"/>verned either of a <hi>Verb</hi> of an Active ſignification, or of a Verbal, or of a <hi>Prepoſition</hi> (unleſs it comes before an <hi>Infinitive</hi> Mood,) wherefore when the <hi>Verb, &amp;c.</hi> is underſtood, the <hi>Ellipſis</hi> ought to be ſupplied: as, <hi>En quatuor aras.</hi> Virg. ſupple <hi>Vide, Aſpice. Bona verba quaeſo;</hi> ſupp. <hi>Dic. Proh Deûm atque hominum fidem;</hi> puta <hi>Implore. Pridie Calendas;</hi> ſc. <hi>Ante. Eo ſpecta<g ref="char:EOLhyphen"/>tum ludos;</hi> pro <hi>ad ſpectatum.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>Which is the twelfth Ca<g ref="char:EOLhyphen"/>non?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Every <hi>Ablative</hi> Caſe is governed of a <hi>Prepoſition</hi> expreſſed or under<g ref="char:EOLhyphen"/>ſtood:
+<pb n="62" facs="tcp:107822:47"/>as, Aegypto <hi>remeans,</hi> puta <hi>ab. Degit</hi> Carthagini, ſupple <hi>in. Rediit hoſte ſuperato,</hi> nempe <hi>ab. Plenus vino,</hi> ſc. <hi>de. Doctior caeteris,</hi> ſubaudi <hi>prae.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>
+                  <hi>A word more, and I have done. You have (I find to my great ſatisfaction) added to the Nine Canons inſerted in the</hi> Ox<g ref="char:EOLhyphen"/>ford <hi>Grammar, Three others of no leſs importance; Therefore for my better confirmation in thoſe neceſſary Maxims, as alſo for a Supplement to that excellent figu<g ref="char:EOLhyphen"/>rative</hi> Syntax, <hi>I deſire to hear theſe Three additional Canons in Latin.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <label>Canon VIII.</label> 
+                  <hi>Omne Verbum Infi<g ref="char:EOLhyphen"/>nitum habet pro ſuppoſito</hi> Accu<g ref="char:EOLhyphen"/>ſativum, <hi>expreſſum aut ſuppreſ<g ref="char:EOLhyphen"/>ſum in Latinâ conſtructione; In Graecâ verò, ſaepe</hi> Nominativum, <hi>plerumque autem</hi> Accuſativum, <hi>aliquando utrumque.</hi>
+               </p>
+               <p>
+                  <label>Canon IX.</label> 
+                  <hi>Omne Nomen Comparatum habet ſuum Nomen Poſitivum, cum quo comparetur.</hi>
+               </p>
+               <pb n="63" facs="tcp:107822:47"/>
+               <p>
+                  <label>Canon X.</label> 
+                  <hi>Praeter Nomen &amp; Verbum ſunt certae particulae, quibus &amp; illis duae, &amp; aliae minores Orationis, partes velut nervis colligantur, variis ſignificationibus aſſignatae, quae cum exprimuntur, Regularis; cum ſupprimuntur, figurata eſt</hi> Syntaxis.</p>
+            </sp>
+            <trailer>Explicit Grammatica Reformata.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
